@@ -41,5 +41,5 @@ for gen in range(GENERATION_NUM):
 
     agents = agents.evolution_mgg(task=task.dotask,elite_num=2, mutate_prob=0.05, sigma=0.1)
 
-name = sys.argv[1]
+name = sys.argv[1] + '.pickle'
 agents.save_agents(name)
