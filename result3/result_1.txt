@@ -1,0 +1,11000 @@
+===
+Gen: 0
+max fitness: 31.70000000000001
+average fitness: 22.797000000000008
+minimum fitness:  13.600000000000005
+xoocxcxcxcS
+cooxcxcxcxS
+xccoxoxxxo
+cxxoocxcocS
+occxooxoxx
+oxxccoooxcS
+===
+Gen: 1
+max fitness: 32.100000000000016
+average fitness: 24.328999999999986
+minimum fitness:  20.800000000000004
+xccoooooxcS
+cooooooxxc
+xooccccccc
+cxoxoxxcxoS
+occccccccc
+oxcxcxcxcxS
+===
+Gen: 2
+max fitness: 32.100000000000016
+average fitness: 24.815999999999985
+minimum fitness:  21.20000000000001
+xccooxcoooS
+coooooxxco
+xooccccccc
+cxoxoxxcxoS
+occccccccc
+oxcxcxcxcxS
+===
+Gen: 3
+max fitness: 31.70000000000001
+average fitness: 25.743000000000016
+minimum fitness:  21.00000000000001
+xoocxcxcxcS
+cooxcxcxcxS
+xccoxoxxxo
+cxxoocxcocS
+occxooxxxo
+oxxccoxcooS
+===
+Gen: 4
+max fitness: 32.9
+average fitness: 26.86100000000002
+minimum fitness:  22.300000000000004
+ooooooooxx
+oooooxxooo
+cxcoooooxx
+xccooooxxo
+coccxxxxxx
+xooxcccccc
+===
+Gen: 5
+max fitness: 32.9
+average fitness: 27.840999999999994
+minimum fitness:  23.400000000000006
+oooooooxxo
+oooooxxooo
+cxcoooxxoo
+xccooooxxo
+coccxxxxxx
+xooxcccccc
+===
+Gen: 6
+max fitness: 33.400000000000006
+average fitness: 29.084000000000028
+minimum fitness:  22.80000000000002
+xcxcxcxcxcS
+cxcxcxcxcxS
+xoxoxoxxxo
+cocococxcoS
+oxoxoxxooo
+ococoooxcoS
+===
+Gen: 7
+max fitness: 33.900000000000006
+average fitness: 29.19100000000001
+minimum fitness:  18.900000000000006
+xxcccccccc
+ccxxxxxxxx
+xxoooooxxo
+ccoooooxxo
+ooooooooxx
+ooooooooxcS
+===
+Gen: 8
+max fitness: 33.900000000000006
+average fitness: 29.81300000000002
+minimum fitness:  22.000000000000014
+xxcccccccc
+ccxxxxxxxx
+xxoooooxxo
+ccoooooxxo
+ooooooooxx
+ooooooooxcS
+===
+Gen: 9
+max fitness: 39.500000000000014
+average fitness: 30.55800000000002
+minimum fitness:  25.900000000000016
+xooooxcoooS
+coooooxxco
+xccccccccc
+cxoxcxxcxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 10
+max fitness: 40.20000000000001
+average fitness: 31.029000000000014
+minimum fitness:  25.300000000000004
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcxoxcxS
+ooooooooxx
+oooooooxxo
+===
+Gen: 11
+max fitness: 39.500000000000014
+average fitness: 31.63900000000001
+minimum fitness:  23.800000000000004
+xooooxcoooS
+cooooooxxc
+xccccccccc
+cxoxcxoxcxS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 12
+max fitness: 40.20000000000001
+average fitness: 32.56600000000001
+minimum fitness:  26.700000000000006
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcxoxcxS
+oooooooxxo
+oooooooxxo
+===
+Gen: 13
+max fitness: 39.500000000000014
+average fitness: 33.783
+minimum fitness:  28.20000000000001
+xooooxcoooS
+cooooooxxc
+xccccccccc
+cxoxcxxcxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 14
+max fitness: 40.20000000000001
+average fitness: 35.198
+minimum fitness:  27.000000000000007
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcxoxcxS
+oooooooxxo
+ooooooooxx
+===
+Gen: 15
+max fitness: 40.20000000000001
+average fitness: 35.93599999999998
+minimum fitness:  25.300000000000004
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcxxcxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 16
+max fitness: 40.20000000000001
+average fitness: 36.57299999999999
+minimum fitness:  26.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcxoxcxS
+oooooxxooo
+oooooooxxo
+===
+Gen: 17
+max fitness: 40.20000000000001
+average fitness: 37.764999999999986
+minimum fitness:  22.0
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcxoxcxS
+oooooooxxo
+oooooooxxo
+===
+Gen: 18
+max fitness: 40.20000000000001
+average fitness: 38.35099999999997
+minimum fitness:  31.10000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcxoxcxS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 19
+max fitness: 40.900000000000006
+average fitness: 38.42899999999999
+minimum fitness:  27.800000000000015
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 20
+max fitness: 40.20000000000001
+average fitness: 38.37799999999999
+minimum fitness:  29.200000000000017
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcxoxcxS
+ooooooooxx
+ooooooooxx
+===
+Gen: 21
+max fitness: 40.900000000000006
+average fitness: 38.63999999999999
+minimum fitness:  32.80000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 22
+max fitness: 40.20000000000001
+average fitness: 38.43499999999999
+minimum fitness:  29.40000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcxxcxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 23
+max fitness: 40.20000000000001
+average fitness: 38.95299999999997
+minimum fitness:  36.80000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcxxcxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 24
+max fitness: 40.900000000000006
+average fitness: 38.84899999999999
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 25
+max fitness: 40.900000000000006
+average fitness: 38.58999999999999
+minimum fitness:  37.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 26
+max fitness: 40.900000000000006
+average fitness: 38.42199999999998
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 27
+max fitness: 40.900000000000006
+average fitness: 38.618999999999986
+minimum fitness:  31.000000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 28
+max fitness: 40.900000000000006
+average fitness: 38.511
+minimum fitness:  30.80000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 29
+max fitness: 40.900000000000006
+average fitness: 38.80199999999999
+minimum fitness:  36.80000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 30
+max fitness: 40.900000000000006
+average fitness: 38.99299999999998
+minimum fitness:  27.100000000000016
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 31
+max fitness: 40.900000000000006
+average fitness: 38.816999999999986
+minimum fitness:  30.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 32
+max fitness: 40.900000000000006
+average fitness: 38.20899999999998
+minimum fitness:  27.800000000000015
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 33
+max fitness: 40.900000000000006
+average fitness: 38.77499999999997
+minimum fitness:  30.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 34
+max fitness: 40.900000000000006
+average fitness: 38.93199999999996
+minimum fitness:  29.80000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 35
+max fitness: 40.900000000000006
+average fitness: 39.376999999999974
+minimum fitness:  36.10000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 36
+max fitness: 40.900000000000006
+average fitness: 38.975999999999964
+minimum fitness:  35.30000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 37
+max fitness: 40.900000000000006
+average fitness: 39.05499999999997
+minimum fitness:  36.000000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 38
+max fitness: 40.900000000000006
+average fitness: 39.100999999999964
+minimum fitness:  28.10000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 39
+max fitness: 40.900000000000006
+average fitness: 39.33899999999996
+minimum fitness:  30.80000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 40
+max fitness: 40.900000000000006
+average fitness: 39.23299999999995
+minimum fitness:  37.30000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 41
+max fitness: 40.900000000000006
+average fitness: 39.12
+minimum fitness:  36.60000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 42
+max fitness: 40.900000000000006
+average fitness: 39.26899999999997
+minimum fitness:  32.10000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 43
+max fitness: 40.900000000000006
+average fitness: 38.96299999999998
+minimum fitness:  34.60000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 44
+max fitness: 40.900000000000006
+average fitness: 38.85999999999996
+minimum fitness:  35.30000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 45
+max fitness: 40.900000000000006
+average fitness: 39.29399999999996
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 46
+max fitness: 40.900000000000006
+average fitness: 38.972999999999985
+minimum fitness:  30.10000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 47
+max fitness: 40.900000000000006
+average fitness: 38.97199999999998
+minimum fitness:  34.20000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 48
+max fitness: 40.900000000000006
+average fitness: 39.301999999999964
+minimum fitness:  33.20000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 49
+max fitness: 40.900000000000006
+average fitness: 39.19499999999998
+minimum fitness:  30.200000000000017
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 50
+max fitness: 40.900000000000006
+average fitness: 39.41499999999998
+minimum fitness:  31.700000000000017
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 51
+max fitness: 40.900000000000006
+average fitness: 39.03999999999997
+minimum fitness:  31.700000000000017
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 52
+max fitness: 40.900000000000006
+average fitness: 39.174999999999976
+minimum fitness:  33.30000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 53
+max fitness: 40.900000000000006
+average fitness: 39.15699999999997
+minimum fitness:  33.30000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 54
+max fitness: 40.900000000000006
+average fitness: 39.111999999999966
+minimum fitness:  30.10000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 55
+max fitness: 40.900000000000006
+average fitness: 39.31799999999996
+minimum fitness:  34.000000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 56
+max fitness: 40.900000000000006
+average fitness: 38.99199999999996
+minimum fitness:  32.70000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 57
+max fitness: 40.900000000000006
+average fitness: 39.093999999999966
+minimum fitness:  27.800000000000015
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 58
+max fitness: 40.900000000000006
+average fitness: 39.41799999999997
+minimum fitness:  31.200000000000017
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 59
+max fitness: 40.900000000000006
+average fitness: 39.12599999999998
+minimum fitness:  36.80000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 60
+max fitness: 40.900000000000006
+average fitness: 39.377999999999965
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 61
+max fitness: 40.900000000000006
+average fitness: 39.10899999999995
+minimum fitness:  31.100000000000016
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 62
+max fitness: 40.900000000000006
+average fitness: 38.94999999999999
+minimum fitness:  29.100000000000016
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 63
+max fitness: 40.900000000000006
+average fitness: 39.11799999999997
+minimum fitness:  29.500000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 64
+max fitness: 40.900000000000006
+average fitness: 39.274999999999956
+minimum fitness:  37.500000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 65
+max fitness: 40.900000000000006
+average fitness: 39.30199999999998
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 66
+max fitness: 40.900000000000006
+average fitness: 39.20699999999996
+minimum fitness:  32.20000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 67
+max fitness: 40.900000000000006
+average fitness: 39.26899999999998
+minimum fitness:  35.30000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 68
+max fitness: 40.900000000000006
+average fitness: 39.34299999999997
+minimum fitness:  34.600000000000016
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 69
+max fitness: 40.900000000000006
+average fitness: 39.223999999999975
+minimum fitness:  30.10000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 70
+max fitness: 40.900000000000006
+average fitness: 39.24699999999995
+minimum fitness:  35.30000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 71
+max fitness: 40.900000000000006
+average fitness: 39.19799999999996
+minimum fitness:  35.30000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 72
+max fitness: 40.900000000000006
+average fitness: 39.069999999999965
+minimum fitness:  32.70000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 73
+max fitness: 40.900000000000006
+average fitness: 38.77399999999996
+minimum fitness:  28.80000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 74
+max fitness: 40.900000000000006
+average fitness: 39.339999999999975
+minimum fitness:  31.900000000000016
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 75
+max fitness: 40.900000000000006
+average fitness: 39.24999999999997
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 76
+max fitness: 40.900000000000006
+average fitness: 39.25299999999995
+minimum fitness:  29.80000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 77
+max fitness: 40.900000000000006
+average fitness: 39.39499999999997
+minimum fitness:  36.40000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 78
+max fitness: 40.900000000000006
+average fitness: 39.096999999999966
+minimum fitness:  30.10000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 79
+max fitness: 40.900000000000006
+average fitness: 39.181999999999945
+minimum fitness:  37.500000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 80
+max fitness: 40.900000000000006
+average fitness: 39.16799999999998
+minimum fitness:  29.80000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 81
+max fitness: 40.900000000000006
+average fitness: 39.363999999999976
+minimum fitness:  34.000000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 82
+max fitness: 40.900000000000006
+average fitness: 39.244999999999976
+minimum fitness:  31.500000000000004
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 83
+max fitness: 40.900000000000006
+average fitness: 39.14199999999995
+minimum fitness:  34.900000000000006
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 84
+max fitness: 40.900000000000006
+average fitness: 39.51099999999997
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 85
+max fitness: 40.900000000000006
+average fitness: 39.29099999999997
+minimum fitness:  31.400000000000013
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 86
+max fitness: 40.900000000000006
+average fitness: 38.93099999999997
+minimum fitness:  31.80000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 87
+max fitness: 40.900000000000006
+average fitness: 39.103999999999964
+minimum fitness:  31.900000000000016
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 88
+max fitness: 40.900000000000006
+average fitness: 39.27799999999996
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 89
+max fitness: 40.900000000000006
+average fitness: 39.16999999999998
+minimum fitness:  28.70000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 90
+max fitness: 40.900000000000006
+average fitness: 39.563999999999965
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 91
+max fitness: 40.900000000000006
+average fitness: 39.17399999999997
+minimum fitness:  33.30000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 92
+max fitness: 40.900000000000006
+average fitness: 39.35599999999999
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 93
+max fitness: 40.900000000000006
+average fitness: 39.18699999999997
+minimum fitness:  31.700000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 94
+max fitness: 40.900000000000006
+average fitness: 39.30199999999998
+minimum fitness:  37.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 95
+max fitness: 40.900000000000006
+average fitness: 39.429999999999964
+minimum fitness:  38.20000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 96
+max fitness: 40.900000000000006
+average fitness: 39.13099999999997
+minimum fitness:  27.800000000000015
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 97
+max fitness: 40.900000000000006
+average fitness: 39.13899999999997
+minimum fitness:  29.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 98
+max fitness: 40.900000000000006
+average fitness: 39.103999999999964
+minimum fitness:  34.600000000000016
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 99
+max fitness: 40.900000000000006
+average fitness: 39.08299999999996
+minimum fitness:  32.20000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 100
+max fitness: 40.900000000000006
+average fitness: 39.28099999999995
+minimum fitness:  31.900000000000016
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 101
+max fitness: 40.900000000000006
+average fitness: 39.22199999999999
+minimum fitness:  37.20000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 102
+max fitness: 40.900000000000006
+average fitness: 38.95799999999997
+minimum fitness:  34.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 103
+max fitness: 40.900000000000006
+average fitness: 39.03999999999997
+minimum fitness:  37.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 104
+max fitness: 40.900000000000006
+average fitness: 39.16899999999996
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 105
+max fitness: 40.900000000000006
+average fitness: 39.00299999999996
+minimum fitness:  33.20000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 106
+max fitness: 40.900000000000006
+average fitness: 39.18499999999997
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 107
+max fitness: 40.900000000000006
+average fitness: 39.55499999999997
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 108
+max fitness: 40.900000000000006
+average fitness: 39.37199999999996
+minimum fitness:  35.60000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 109
+max fitness: 40.900000000000006
+average fitness: 39.24399999999996
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 110
+max fitness: 40.900000000000006
+average fitness: 39.00599999999995
+minimum fitness:  29.500000000000018
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 111
+max fitness: 40.900000000000006
+average fitness: 39.32399999999997
+minimum fitness:  32.10000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 112
+max fitness: 40.900000000000006
+average fitness: 39.136999999999965
+minimum fitness:  31.200000000000017
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 113
+max fitness: 40.900000000000006
+average fitness: 38.95999999999995
+minimum fitness:  25.300000000000015
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 114
+max fitness: 40.900000000000006
+average fitness: 39.41799999999996
+minimum fitness:  37.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 115
+max fitness: 40.900000000000006
+average fitness: 39.50699999999997
+minimum fitness:  37.500000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 116
+max fitness: 40.900000000000006
+average fitness: 39.255999999999986
+minimum fitness:  36.900000000000006
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 117
+max fitness: 40.900000000000006
+average fitness: 39.26899999999996
+minimum fitness:  34.600000000000016
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 118
+max fitness: 40.900000000000006
+average fitness: 39.248999999999974
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 119
+max fitness: 40.900000000000006
+average fitness: 39.20999999999998
+minimum fitness:  30.10000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 120
+max fitness: 40.900000000000006
+average fitness: 39.106999999999964
+minimum fitness:  32.70000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 121
+max fitness: 40.900000000000006
+average fitness: 39.29599999999996
+minimum fitness:  36.2
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 122
+max fitness: 40.900000000000006
+average fitness: 39.27199999999996
+minimum fitness:  32.70000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 123
+max fitness: 40.900000000000006
+average fitness: 39.17599999999996
+minimum fitness:  34.600000000000016
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 124
+max fitness: 40.900000000000006
+average fitness: 39.31399999999996
+minimum fitness:  29.100000000000016
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 125
+max fitness: 40.900000000000006
+average fitness: 39.10899999999998
+minimum fitness:  26.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 126
+max fitness: 40.900000000000006
+average fitness: 39.215999999999966
+minimum fitness:  32.60000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 127
+max fitness: 40.900000000000006
+average fitness: 39.13299999999996
+minimum fitness:  31.200000000000017
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 128
+max fitness: 40.900000000000006
+average fitness: 39.017999999999944
+minimum fitness:  34.400000000000006
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 129
+max fitness: 40.900000000000006
+average fitness: 39.319999999999965
+minimum fitness:  36.000000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 130
+max fitness: 40.900000000000006
+average fitness: 39.063999999999965
+minimum fitness:  32.10000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 131
+max fitness: 40.900000000000006
+average fitness: 39.27199999999998
+minimum fitness:  32.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 132
+max fitness: 40.900000000000006
+average fitness: 39.56799999999996
+minimum fitness:  38.20000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooooxx
+===
+Gen: 133
+max fitness: 40.900000000000006
+average fitness: 39.52699999999996
+minimum fitness:  33.90000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 134
+max fitness: 40.900000000000006
+average fitness: 39.45799999999997
+minimum fitness:  38.20000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 135
+max fitness: 40.900000000000006
+average fitness: 39.30399999999996
+minimum fitness:  35.60000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 136
+max fitness: 40.900000000000006
+average fitness: 39.41699999999995
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 137
+max fitness: 40.900000000000006
+average fitness: 39.04999999999996
+minimum fitness:  33.10000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 138
+max fitness: 40.900000000000006
+average fitness: 39.171999999999976
+minimum fitness:  37.30000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 139
+max fitness: 40.900000000000006
+average fitness: 39.401999999999965
+minimum fitness:  34.600000000000016
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 140
+max fitness: 40.900000000000006
+average fitness: 39.14499999999996
+minimum fitness:  36.600000000000016
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 141
+max fitness: 40.900000000000006
+average fitness: 39.075999999999965
+minimum fitness:  30.10000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 142
+max fitness: 40.900000000000006
+average fitness: 39.51999999999996
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 143
+max fitness: 40.900000000000006
+average fitness: 38.91599999999998
+minimum fitness:  30.10000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 144
+max fitness: 40.900000000000006
+average fitness: 38.86399999999996
+minimum fitness:  33.30000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 145
+max fitness: 40.900000000000006
+average fitness: 39.21999999999997
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 146
+max fitness: 40.900000000000006
+average fitness: 39.122999999999976
+minimum fitness:  31.80000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxcxoxS
+oooooxxooo
+ooooooooxx
+===
+Gen: 147
+max fitness: 40.900000000000006
+average fitness: 39.01999999999996
+minimum fitness:  30.80000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 148
+max fitness: 40.900000000000006
+average fitness: 38.89899999999996
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 149
+max fitness: 40.900000000000006
+average fitness: 38.98599999999996
+minimum fitness:  26.8
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 150
+max fitness: 40.900000000000006
+average fitness: 38.87799999999997
+minimum fitness:  28.1
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 151
+max fitness: 40.900000000000006
+average fitness: 38.70999999999998
+minimum fitness:  29.900000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 152
+max fitness: 40.900000000000006
+average fitness: 38.92199999999997
+minimum fitness:  31.6
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 153
+max fitness: 40.900000000000006
+average fitness: 39.03799999999998
+minimum fitness:  32.10000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxcxoxS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 154
+max fitness: 40.900000000000006
+average fitness: 39.28899999999996
+minimum fitness:  34.000000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 155
+max fitness: 40.900000000000006
+average fitness: 39.337999999999965
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 156
+max fitness: 41.20000000000001
+average fitness: 39.38299999999997
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxocxoxxcoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 157
+max fitness: 41.20000000000001
+average fitness: 39.414999999999985
+minimum fitness:  34.30000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxocxoxxcoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 158
+max fitness: 41.20000000000001
+average fitness: 39.19399999999995
+minimum fitness:  32.70000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxocxoxxcoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 159
+max fitness: 40.900000000000006
+average fitness: 38.95899999999995
+minimum fitness:  32.60000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 160
+max fitness: 40.900000000000006
+average fitness: 39.15499999999997
+minimum fitness:  33.2
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 161
+max fitness: 40.900000000000006
+average fitness: 39.193999999999974
+minimum fitness:  35.30000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 162
+max fitness: 40.900000000000006
+average fitness: 39.454999999999956
+minimum fitness:  34.600000000000016
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 163
+max fitness: 40.900000000000006
+average fitness: 38.93799999999997
+minimum fitness:  28.200000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 164
+max fitness: 40.900000000000006
+average fitness: 39.37299999999999
+minimum fitness:  31.80000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 165
+max fitness: 40.900000000000006
+average fitness: 39.19499999999997
+minimum fitness:  32.20000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 166
+max fitness: 40.900000000000006
+average fitness: 39.27599999999999
+minimum fitness:  35.60000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 167
+max fitness: 40.900000000000006
+average fitness: 39.41099999999999
+minimum fitness:  35.20000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 168
+max fitness: 40.900000000000006
+average fitness: 39.29099999999996
+minimum fitness:  33.10000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooooxx
+===
+Gen: 169
+max fitness: 40.900000000000006
+average fitness: 39.47399999999997
+minimum fitness:  37.500000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 170
+max fitness: 40.900000000000006
+average fitness: 39.393999999999984
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 171
+max fitness: 40.900000000000006
+average fitness: 39.18099999999997
+minimum fitness:  30.10000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 172
+max fitness: 40.900000000000006
+average fitness: 39.298999999999964
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 173
+max fitness: 40.900000000000006
+average fitness: 39.39899999999997
+minimum fitness:  35.30000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 174
+max fitness: 40.900000000000006
+average fitness: 39.12499999999996
+minimum fitness:  31.200000000000017
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 175
+max fitness: 40.900000000000006
+average fitness: 39.136999999999965
+minimum fitness:  37.30000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 176
+max fitness: 40.900000000000006
+average fitness: 39.40399999999998
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 177
+max fitness: 40.900000000000006
+average fitness: 39.15999999999996
+minimum fitness:  30.10000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 178
+max fitness: 40.900000000000006
+average fitness: 39.229999999999954
+minimum fitness:  35.10000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 179
+max fitness: 40.900000000000006
+average fitness: 39.21299999999996
+minimum fitness:  37.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 180
+max fitness: 40.900000000000006
+average fitness: 39.11999999999996
+minimum fitness:  28.10000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 181
+max fitness: 40.900000000000006
+average fitness: 39.11299999999997
+minimum fitness:  38.20000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 182
+max fitness: 40.900000000000006
+average fitness: 39.056999999999974
+minimum fitness:  29.400000000000016
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 183
+max fitness: 40.900000000000006
+average fitness: 39.278999999999954
+minimum fitness:  28.60000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 184
+max fitness: 40.900000000000006
+average fitness: 39.14999999999996
+minimum fitness:  27.60000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 185
+max fitness: 40.900000000000006
+average fitness: 38.93899999999997
+minimum fitness:  29.80000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 186
+max fitness: 40.900000000000006
+average fitness: 39.485999999999954
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 187
+max fitness: 40.900000000000006
+average fitness: 39.34699999999996
+minimum fitness:  38.20000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 188
+max fitness: 40.900000000000006
+average fitness: 39.21699999999998
+minimum fitness:  30.10000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 189
+max fitness: 40.900000000000006
+average fitness: 38.98799999999997
+minimum fitness:  33.2
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 190
+max fitness: 40.900000000000006
+average fitness: 39.01799999999995
+minimum fitness:  34.000000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 191
+max fitness: 40.900000000000006
+average fitness: 39.44299999999996
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 192
+max fitness: 40.900000000000006
+average fitness: 39.42999999999997
+minimum fitness:  33.20000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 193
+max fitness: 40.900000000000006
+average fitness: 39.07399999999997
+minimum fitness:  30.10000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 194
+max fitness: 41.20000000000001
+average fitness: 38.93099999999997
+minimum fitness:  30.10000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxocxoxxcoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 195
+max fitness: 40.900000000000006
+average fitness: 39.17699999999997
+minimum fitness:  31.80000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 196
+max fitness: 40.900000000000006
+average fitness: 39.23199999999997
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 197
+max fitness: 40.900000000000006
+average fitness: 39.59799999999997
+minimum fitness:  37.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 198
+max fitness: 40.900000000000006
+average fitness: 39.529999999999994
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 199
+max fitness: 40.900000000000006
+average fitness: 39.037999999999975
+minimum fitness:  30.10000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooooxx
+===
+Gen: 200
+max fitness: 40.900000000000006
+average fitness: 39.19399999999996
+minimum fitness:  29.80000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 201
+max fitness: 40.900000000000006
+average fitness: 39.46799999999995
+minimum fitness:  37.500000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 202
+max fitness: 40.900000000000006
+average fitness: 39.38799999999996
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 203
+max fitness: 40.900000000000006
+average fitness: 39.35599999999997
+minimum fitness:  37.20000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 204
+max fitness: 40.900000000000006
+average fitness: 39.005999999999965
+minimum fitness:  32.70000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 205
+max fitness: 40.900000000000006
+average fitness: 39.30299999999997
+minimum fitness:  30.10000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 206
+max fitness: 40.900000000000006
+average fitness: 39.443999999999974
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 207
+max fitness: 40.900000000000006
+average fitness: 39.69099999999996
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 208
+max fitness: 40.900000000000006
+average fitness: 39.10799999999997
+minimum fitness:  28.80000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 209
+max fitness: 40.900000000000006
+average fitness: 39.32899999999996
+minimum fitness:  32.600000000000016
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 210
+max fitness: 40.900000000000006
+average fitness: 38.908999999999956
+minimum fitness:  26.800000000000015
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 211
+max fitness: 40.900000000000006
+average fitness: 39.07299999999998
+minimum fitness:  31.400000000000013
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 212
+max fitness: 40.900000000000006
+average fitness: 39.04099999999997
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 213
+max fitness: 40.900000000000006
+average fitness: 39.12699999999997
+minimum fitness:  33.30000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 214
+max fitness: 40.900000000000006
+average fitness: 39.13999999999996
+minimum fitness:  29.70000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 215
+max fitness: 40.900000000000006
+average fitness: 38.96499999999995
+minimum fitness:  30.10000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 216
+max fitness: 40.900000000000006
+average fitness: 39.14699999999997
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 217
+max fitness: 40.900000000000006
+average fitness: 39.27199999999997
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 218
+max fitness: 40.900000000000006
+average fitness: 39.34999999999998
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 219
+max fitness: 40.900000000000006
+average fitness: 39.18099999999998
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 220
+max fitness: 40.900000000000006
+average fitness: 39.15899999999997
+minimum fitness:  32.70000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 221
+max fitness: 40.900000000000006
+average fitness: 39.40799999999996
+minimum fitness:  28.70000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 222
+max fitness: 40.900000000000006
+average fitness: 39.54399999999996
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooooxx
+===
+Gen: 223
+max fitness: 40.900000000000006
+average fitness: 39.059999999999974
+minimum fitness:  28.80000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 224
+max fitness: 40.900000000000006
+average fitness: 39.38799999999998
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 225
+max fitness: 40.900000000000006
+average fitness: 39.17799999999997
+minimum fitness:  31.10000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 226
+max fitness: 40.900000000000006
+average fitness: 39.14399999999995
+minimum fitness:  32.500000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 227
+max fitness: 40.900000000000006
+average fitness: 39.35199999999996
+minimum fitness:  34.600000000000016
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 228
+max fitness: 40.900000000000006
+average fitness: 39.35799999999997
+minimum fitness:  38.20000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 229
+max fitness: 40.900000000000006
+average fitness: 39.35899999999997
+minimum fitness:  36.400000000000006
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 230
+max fitness: 40.900000000000006
+average fitness: 39.430999999999976
+minimum fitness:  30.500000000000018
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 231
+max fitness: 40.900000000000006
+average fitness: 38.97999999999996
+minimum fitness:  30.80000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 232
+max fitness: 40.900000000000006
+average fitness: 39.30999999999996
+minimum fitness:  30.70000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 233
+max fitness: 40.900000000000006
+average fitness: 39.21099999999996
+minimum fitness:  37.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 234
+max fitness: 40.900000000000006
+average fitness: 39.348999999999975
+minimum fitness:  34.400000000000006
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 235
+max fitness: 40.900000000000006
+average fitness: 39.218999999999966
+minimum fitness:  30.10000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 236
+max fitness: 40.900000000000006
+average fitness: 39.16799999999997
+minimum fitness:  35.80000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 237
+max fitness: 40.900000000000006
+average fitness: 39.56299999999997
+minimum fitness:  35.80000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 238
+max fitness: 40.900000000000006
+average fitness: 39.34099999999998
+minimum fitness:  37.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 239
+max fitness: 40.900000000000006
+average fitness: 39.09299999999997
+minimum fitness:  36.80000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 240
+max fitness: 40.900000000000006
+average fitness: 39.02199999999996
+minimum fitness:  32.80000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 241
+max fitness: 40.900000000000006
+average fitness: 39.25999999999996
+minimum fitness:  31.80000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 242
+max fitness: 40.900000000000006
+average fitness: 39.24099999999996
+minimum fitness:  35.30000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 243
+max fitness: 40.900000000000006
+average fitness: 38.919999999999966
+minimum fitness:  31.80000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 244
+max fitness: 40.900000000000006
+average fitness: 39.23599999999996
+minimum fitness:  32.000000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 245
+max fitness: 40.900000000000006
+average fitness: 38.96599999999996
+minimum fitness:  30.500000000000018
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 246
+max fitness: 40.900000000000006
+average fitness: 39.27799999999997
+minimum fitness:  31.70000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 247
+max fitness: 40.900000000000006
+average fitness: 39.09199999999996
+minimum fitness:  31.200000000000017
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 248
+max fitness: 40.900000000000006
+average fitness: 39.311999999999955
+minimum fitness:  34.00000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 249
+max fitness: 40.900000000000006
+average fitness: 39.37899999999998
+minimum fitness:  33.30000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 250
+max fitness: 40.900000000000006
+average fitness: 39.77199999999998
+minimum fitness:  33.30000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 251
+max fitness: 40.900000000000006
+average fitness: 39.16499999999996
+minimum fitness:  28.10000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 252
+max fitness: 40.900000000000006
+average fitness: 39.36999999999994
+minimum fitness:  33.2
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 253
+max fitness: 40.900000000000006
+average fitness: 39.12599999999997
+minimum fitness:  33.900000000000006
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 254
+max fitness: 40.900000000000006
+average fitness: 39.311999999999976
+minimum fitness:  38.20000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 255
+max fitness: 40.900000000000006
+average fitness: 39.56999999999998
+minimum fitness:  32.10000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 256
+max fitness: 40.900000000000006
+average fitness: 39.06399999999998
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 257
+max fitness: 40.900000000000006
+average fitness: 39.20399999999997
+minimum fitness:  34.00000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 258
+max fitness: 40.900000000000006
+average fitness: 39.07999999999997
+minimum fitness:  34.000000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 259
+max fitness: 40.900000000000006
+average fitness: 39.07999999999997
+minimum fitness:  31.80000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 260
+max fitness: 40.900000000000006
+average fitness: 38.95399999999998
+minimum fitness:  29.600000000000016
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 261
+max fitness: 40.900000000000006
+average fitness: 38.85499999999997
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 262
+max fitness: 40.900000000000006
+average fitness: 39.32799999999995
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 263
+max fitness: 40.900000000000006
+average fitness: 39.15299999999996
+minimum fitness:  30.10000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 264
+max fitness: 40.900000000000006
+average fitness: 39.548999999999964
+minimum fitness:  33.80000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 265
+max fitness: 40.900000000000006
+average fitness: 39.301999999999964
+minimum fitness:  28.500000000000007
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 266
+max fitness: 40.900000000000006
+average fitness: 39.37099999999996
+minimum fitness:  33.20000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 267
+max fitness: 40.900000000000006
+average fitness: 38.932999999999964
+minimum fitness:  31.200000000000017
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooooxx
+===
+Gen: 268
+max fitness: 40.900000000000006
+average fitness: 39.06399999999996
+minimum fitness:  33.900000000000006
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 269
+max fitness: 40.900000000000006
+average fitness: 39.44299999999996
+minimum fitness:  38.20000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 270
+max fitness: 40.900000000000006
+average fitness: 39.12299999999995
+minimum fitness:  33.90000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 271
+max fitness: 40.900000000000006
+average fitness: 39.19299999999997
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooooxx
+===
+Gen: 272
+max fitness: 40.900000000000006
+average fitness: 39.25299999999996
+minimum fitness:  37.0
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 273
+max fitness: 40.900000000000006
+average fitness: 39.37899999999996
+minimum fitness:  32.10000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 274
+max fitness: 42.400000000000006
+average fitness: 39.30299999999996
+minimum fitness:  32.70000000000002
+xoooooooxcS
+coooooooxx
+xcocococxx
+cxoxoxxcoxS
+oooooxxooo
+oooooooxxo
+===
+Gen: 275
+max fitness: 41.7
+average fitness: 39.19399999999996
+minimum fitness:  34.00000000000002
+xoooooooxcS
+cooooooxxc
+xcocococxx
+cxoxoxoxxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 276
+max fitness: 40.900000000000006
+average fitness: 39.12599999999998
+minimum fitness:  33.30000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 277
+max fitness: 40.900000000000006
+average fitness: 39.226999999999954
+minimum fitness:  33.30000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 278
+max fitness: 40.900000000000006
+average fitness: 39.117999999999945
+minimum fitness:  33.30000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 279
+max fitness: 40.900000000000006
+average fitness: 39.28699999999996
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 280
+max fitness: 40.900000000000006
+average fitness: 39.49999999999996
+minimum fitness:  38.20000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 281
+max fitness: 40.900000000000006
+average fitness: 39.371999999999964
+minimum fitness:  29.80000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 282
+max fitness: 40.900000000000006
+average fitness: 39.50399999999998
+minimum fitness:  35.2
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 283
+max fitness: 40.900000000000006
+average fitness: 39.23299999999997
+minimum fitness:  37.500000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 284
+max fitness: 40.900000000000006
+average fitness: 39.37499999999997
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 285
+max fitness: 40.900000000000006
+average fitness: 39.38399999999997
+minimum fitness:  38.20000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 286
+max fitness: 40.900000000000006
+average fitness: 39.149999999999984
+minimum fitness:  31.900000000000016
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 287
+max fitness: 40.900000000000006
+average fitness: 39.37099999999996
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 288
+max fitness: 40.900000000000006
+average fitness: 39.33499999999998
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 289
+max fitness: 40.900000000000006
+average fitness: 39.16299999999998
+minimum fitness:  32.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 290
+max fitness: 40.900000000000006
+average fitness: 39.19899999999997
+minimum fitness:  31.80000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 291
+max fitness: 40.900000000000006
+average fitness: 39.10199999999996
+minimum fitness:  31.900000000000016
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 292
+max fitness: 40.900000000000006
+average fitness: 39.273999999999965
+minimum fitness:  33.400000000000006
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 293
+max fitness: 40.900000000000006
+average fitness: 39.15799999999996
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 294
+max fitness: 40.900000000000006
+average fitness: 39.13699999999999
+minimum fitness:  32.900000000000006
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 295
+max fitness: 40.900000000000006
+average fitness: 39.11799999999996
+minimum fitness:  31.900000000000016
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 296
+max fitness: 40.900000000000006
+average fitness: 39.12499999999996
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 297
+max fitness: 40.900000000000006
+average fitness: 39.28199999999998
+minimum fitness:  33.90000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 298
+max fitness: 40.900000000000006
+average fitness: 39.46899999999996
+minimum fitness:  36.2
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 299
+max fitness: 40.900000000000006
+average fitness: 39.271999999999984
+minimum fitness:  30.400000000000013
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 300
+max fitness: 40.900000000000006
+average fitness: 39.32699999999997
+minimum fitness:  35.30000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 301
+max fitness: 40.900000000000006
+average fitness: 39.43899999999997
+minimum fitness:  30.80000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 302
+max fitness: 40.900000000000006
+average fitness: 39.10299999999996
+minimum fitness:  35.000000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 303
+max fitness: 40.900000000000006
+average fitness: 39.12699999999997
+minimum fitness:  31.400000000000013
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooooxx
+===
+Gen: 304
+max fitness: 40.900000000000006
+average fitness: 39.42199999999996
+minimum fitness:  31.80000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 305
+max fitness: 40.900000000000006
+average fitness: 39.01499999999994
+minimum fitness:  31.10000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 306
+max fitness: 40.900000000000006
+average fitness: 39.25599999999998
+minimum fitness:  28.10000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 307
+max fitness: 40.900000000000006
+average fitness: 39.48599999999996
+minimum fitness:  37.20000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 308
+max fitness: 40.900000000000006
+average fitness: 39.22399999999996
+minimum fitness:  32.70000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 309
+max fitness: 40.900000000000006
+average fitness: 39.216999999999985
+minimum fitness:  31.200000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 310
+max fitness: 40.900000000000006
+average fitness: 39.16399999999997
+minimum fitness:  33.2
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 311
+max fitness: 40.900000000000006
+average fitness: 39.195999999999955
+minimum fitness:  32.10000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 312
+max fitness: 40.900000000000006
+average fitness: 39.17799999999997
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 313
+max fitness: 40.900000000000006
+average fitness: 39.174999999999955
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 314
+max fitness: 40.900000000000006
+average fitness: 39.45099999999996
+minimum fitness:  38.20000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 315
+max fitness: 40.900000000000006
+average fitness: 39.16799999999996
+minimum fitness:  35.30000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 316
+max fitness: 40.900000000000006
+average fitness: 38.872999999999955
+minimum fitness:  30.500000000000018
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 317
+max fitness: 40.900000000000006
+average fitness: 38.982999999999976
+minimum fitness:  31.80000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 318
+max fitness: 40.900000000000006
+average fitness: 39.19999999999997
+minimum fitness:  34.00000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 319
+max fitness: 40.900000000000006
+average fitness: 39.37299999999996
+minimum fitness:  37.500000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 320
+max fitness: 40.900000000000006
+average fitness: 39.28899999999995
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 321
+max fitness: 40.900000000000006
+average fitness: 39.127999999999965
+minimum fitness:  31.80000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 322
+max fitness: 40.900000000000006
+average fitness: 39.25499999999995
+minimum fitness:  37.500000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 323
+max fitness: 40.900000000000006
+average fitness: 39.28599999999995
+minimum fitness:  38.20000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 324
+max fitness: 40.900000000000006
+average fitness: 39.390999999999984
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 325
+max fitness: 40.900000000000006
+average fitness: 39.15299999999996
+minimum fitness:  31.200000000000017
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 326
+max fitness: 40.900000000000006
+average fitness: 39.41799999999998
+minimum fitness:  38.20000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 327
+max fitness: 40.900000000000006
+average fitness: 39.30099999999996
+minimum fitness:  31.900000000000016
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 328
+max fitness: 40.900000000000006
+average fitness: 39.36299999999997
+minimum fitness:  37.20000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 329
+max fitness: 40.900000000000006
+average fitness: 39.28999999999996
+minimum fitness:  36.30000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 330
+max fitness: 40.900000000000006
+average fitness: 38.999999999999964
+minimum fitness:  30.500000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 331
+max fitness: 40.900000000000006
+average fitness: 39.25099999999997
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 332
+max fitness: 40.900000000000006
+average fitness: 39.00299999999995
+minimum fitness:  29.80000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 333
+max fitness: 40.900000000000006
+average fitness: 39.45799999999999
+minimum fitness:  34.00000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 334
+max fitness: 40.900000000000006
+average fitness: 39.18099999999998
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 335
+max fitness: 40.900000000000006
+average fitness: 39.120999999999974
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 336
+max fitness: 40.900000000000006
+average fitness: 39.50799999999997
+minimum fitness:  37.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 337
+max fitness: 40.900000000000006
+average fitness: 39.360999999999954
+minimum fitness:  37.30000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 338
+max fitness: 40.900000000000006
+average fitness: 39.41099999999995
+minimum fitness:  37.30000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 339
+max fitness: 40.900000000000006
+average fitness: 39.35599999999995
+minimum fitness:  35.30000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 340
+max fitness: 40.900000000000006
+average fitness: 39.205999999999975
+minimum fitness:  35.30000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 341
+max fitness: 40.900000000000006
+average fitness: 39.32299999999995
+minimum fitness:  38.20000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 342
+max fitness: 40.900000000000006
+average fitness: 39.355999999999966
+minimum fitness:  37.60000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 343
+max fitness: 40.900000000000006
+average fitness: 39.32399999999996
+minimum fitness:  33.20000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 344
+max fitness: 40.900000000000006
+average fitness: 39.37099999999996
+minimum fitness:  36.60000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 345
+max fitness: 40.900000000000006
+average fitness: 39.28399999999996
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 346
+max fitness: 40.900000000000006
+average fitness: 39.18899999999996
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 347
+max fitness: 40.900000000000006
+average fitness: 39.30699999999997
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 348
+max fitness: 40.900000000000006
+average fitness: 39.21799999999998
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 349
+max fitness: 40.900000000000006
+average fitness: 39.17599999999995
+minimum fitness:  37.20000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 350
+max fitness: 40.900000000000006
+average fitness: 39.48299999999998
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 351
+max fitness: 40.900000000000006
+average fitness: 39.182999999999964
+minimum fitness:  31.200000000000017
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 352
+max fitness: 40.900000000000006
+average fitness: 39.113999999999976
+minimum fitness:  32.20000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 353
+max fitness: 40.900000000000006
+average fitness: 39.39999999999997
+minimum fitness:  29.100000000000016
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 354
+max fitness: 40.900000000000006
+average fitness: 39.45299999999999
+minimum fitness:  35.30000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 355
+max fitness: 40.900000000000006
+average fitness: 39.25399999999997
+minimum fitness:  37.500000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 356
+max fitness: 40.900000000000006
+average fitness: 39.39499999999997
+minimum fitness:  36.80000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 357
+max fitness: 40.900000000000006
+average fitness: 39.371999999999964
+minimum fitness:  36.60000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 358
+max fitness: 40.900000000000006
+average fitness: 39.26499999999998
+minimum fitness:  32.70000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 359
+max fitness: 40.900000000000006
+average fitness: 39.13899999999996
+minimum fitness:  29.800000000000015
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 360
+max fitness: 40.900000000000006
+average fitness: 39.33499999999996
+minimum fitness:  33.30000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 361
+max fitness: 40.900000000000006
+average fitness: 39.61499999999998
+minimum fitness:  37.500000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 362
+max fitness: 40.900000000000006
+average fitness: 39.19999999999994
+minimum fitness:  34.30000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 363
+max fitness: 40.900000000000006
+average fitness: 39.189999999999955
+minimum fitness:  34.000000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 364
+max fitness: 40.900000000000006
+average fitness: 39.32899999999996
+minimum fitness:  33.20000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 365
+max fitness: 40.900000000000006
+average fitness: 39.58099999999996
+minimum fitness:  37.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 366
+max fitness: 40.900000000000006
+average fitness: 39.09699999999995
+minimum fitness:  37.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 367
+max fitness: 40.900000000000006
+average fitness: 39.13299999999997
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 368
+max fitness: 40.900000000000006
+average fitness: 38.85399999999996
+minimum fitness:  31.200000000000017
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 369
+max fitness: 40.900000000000006
+average fitness: 39.30899999999996
+minimum fitness:  30.10000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooooxx
+===
+Gen: 370
+max fitness: 40.900000000000006
+average fitness: 39.37199999999998
+minimum fitness:  35.900000000000006
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 371
+max fitness: 40.900000000000006
+average fitness: 39.12899999999997
+minimum fitness:  35.60000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 372
+max fitness: 40.900000000000006
+average fitness: 39.31899999999997
+minimum fitness:  34.600000000000016
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 373
+max fitness: 40.900000000000006
+average fitness: 39.28099999999996
+minimum fitness:  33.900000000000006
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 374
+max fitness: 40.900000000000006
+average fitness: 39.35499999999996
+minimum fitness:  29.400000000000016
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 375
+max fitness: 40.900000000000006
+average fitness: 39.16099999999995
+minimum fitness:  30.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 376
+max fitness: 40.900000000000006
+average fitness: 39.20799999999997
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 377
+max fitness: 40.900000000000006
+average fitness: 39.23699999999996
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 378
+max fitness: 40.900000000000006
+average fitness: 39.201999999999956
+minimum fitness:  33.20000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 379
+max fitness: 40.900000000000006
+average fitness: 39.25399999999995
+minimum fitness:  35.2
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 380
+max fitness: 40.900000000000006
+average fitness: 39.48999999999997
+minimum fitness:  30.10000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 381
+max fitness: 40.900000000000006
+average fitness: 39.25699999999997
+minimum fitness:  30.500000000000018
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 382
+max fitness: 40.900000000000006
+average fitness: 39.46399999999998
+minimum fitness:  28.80000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 383
+max fitness: 40.900000000000006
+average fitness: 39.38999999999998
+minimum fitness:  31.200000000000017
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 384
+max fitness: 40.900000000000006
+average fitness: 39.45099999999996
+minimum fitness:  35.900000000000006
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 385
+max fitness: 40.900000000000006
+average fitness: 39.372999999999955
+minimum fitness:  38.20000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 386
+max fitness: 40.900000000000006
+average fitness: 39.36699999999996
+minimum fitness:  32.70000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 387
+max fitness: 40.900000000000006
+average fitness: 39.163999999999966
+minimum fitness:  33.2
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 388
+max fitness: 40.900000000000006
+average fitness: 39.436999999999976
+minimum fitness:  36.60000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 389
+max fitness: 40.900000000000006
+average fitness: 39.267999999999965
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooooxx
+===
+Gen: 390
+max fitness: 40.900000000000006
+average fitness: 39.45299999999997
+minimum fitness:  38.20000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 391
+max fitness: 40.900000000000006
+average fitness: 39.202999999999946
+minimum fitness:  30.80000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 392
+max fitness: 41.20000000000001
+average fitness: 39.47899999999996
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxocxxcoxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 393
+max fitness: 40.900000000000006
+average fitness: 39.16399999999995
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 394
+max fitness: 41.20000000000001
+average fitness: 39.43599999999995
+minimum fitness:  38.10000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxocxoxxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 395
+max fitness: 40.900000000000006
+average fitness: 39.02099999999998
+minimum fitness:  28.10000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 396
+max fitness: 40.900000000000006
+average fitness: 39.22199999999996
+minimum fitness:  37.60000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 397
+max fitness: 40.900000000000006
+average fitness: 39.299999999999976
+minimum fitness:  32.10000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 398
+max fitness: 40.900000000000006
+average fitness: 39.34699999999996
+minimum fitness:  32.70000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 399
+max fitness: 40.900000000000006
+average fitness: 39.198999999999955
+minimum fitness:  30.10000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 400
+max fitness: 40.900000000000006
+average fitness: 39.36199999999997
+minimum fitness:  33.20000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 401
+max fitness: 40.900000000000006
+average fitness: 39.376999999999946
+minimum fitness:  37.50000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 402
+max fitness: 41.2
+average fitness: 39.52499999999997
+minimum fitness:  38.20000000000001
+xoocoooxcoS
+coooooooxx
+xccocccccc
+cxocxxcoxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 403
+max fitness: 41.2
+average fitness: 39.257999999999974
+minimum fitness:  37.30000000000001
+xoocooooxcS
+coooooooxx
+xccocccccc
+cxocxxcoxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 404
+max fitness: 40.900000000000006
+average fitness: 39.35599999999996
+minimum fitness:  34.00000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 405
+max fitness: 40.900000000000006
+average fitness: 39.15599999999997
+minimum fitness:  28.80000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 406
+max fitness: 40.900000000000006
+average fitness: 39.441999999999965
+minimum fitness:  35.80000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 407
+max fitness: 40.900000000000006
+average fitness: 39.45899999999996
+minimum fitness:  32.10000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 408
+max fitness: 40.900000000000006
+average fitness: 39.22699999999997
+minimum fitness:  28.80000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 409
+max fitness: 40.900000000000006
+average fitness: 39.27999999999997
+minimum fitness:  33.30000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 410
+max fitness: 40.900000000000006
+average fitness: 39.12499999999997
+minimum fitness:  30.80000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 411
+max fitness: 40.900000000000006
+average fitness: 39.305999999999955
+minimum fitness:  35.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 412
+max fitness: 40.900000000000006
+average fitness: 39.345999999999975
+minimum fitness:  36.30000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 413
+max fitness: 40.900000000000006
+average fitness: 39.24399999999997
+minimum fitness:  32.80000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 414
+max fitness: 40.900000000000006
+average fitness: 39.19299999999997
+minimum fitness:  29.800000000000015
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 415
+max fitness: 40.900000000000006
+average fitness: 39.30599999999997
+minimum fitness:  31.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 416
+max fitness: 40.900000000000006
+average fitness: 39.12099999999996
+minimum fitness:  30.500000000000018
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 417
+max fitness: 40.900000000000006
+average fitness: 39.149999999999956
+minimum fitness:  33.600000000000016
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 418
+max fitness: 40.900000000000006
+average fitness: 39.426999999999964
+minimum fitness:  28.800000000000015
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 419
+max fitness: 40.900000000000006
+average fitness: 39.11299999999995
+minimum fitness:  32.900000000000006
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 420
+max fitness: 40.900000000000006
+average fitness: 39.48499999999997
+minimum fitness:  37.30000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 421
+max fitness: 40.900000000000006
+average fitness: 39.044999999999966
+minimum fitness:  32.10000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 422
+max fitness: 40.900000000000006
+average fitness: 39.352999999999966
+minimum fitness:  35.2
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 423
+max fitness: 40.900000000000006
+average fitness: 39.31499999999996
+minimum fitness:  31.10000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 424
+max fitness: 40.900000000000006
+average fitness: 39.44799999999998
+minimum fitness:  34.60000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 425
+max fitness: 40.900000000000006
+average fitness: 39.153999999999975
+minimum fitness:  28.10000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 426
+max fitness: 40.900000000000006
+average fitness: 39.214999999999954
+minimum fitness:  30.10000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 427
+max fitness: 40.900000000000006
+average fitness: 39.16499999999996
+minimum fitness:  29.20000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 428
+max fitness: 40.900000000000006
+average fitness: 38.999999999999964
+minimum fitness:  30.10000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 429
+max fitness: 40.900000000000006
+average fitness: 39.345999999999975
+minimum fitness:  38.20000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 430
+max fitness: 40.900000000000006
+average fitness: 39.14399999999997
+minimum fitness:  32.70000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 431
+max fitness: 40.900000000000006
+average fitness: 39.20899999999996
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 432
+max fitness: 40.900000000000006
+average fitness: 39.194999999999965
+minimum fitness:  35.60000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 433
+max fitness: 40.900000000000006
+average fitness: 39.25199999999996
+minimum fitness:  36.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 434
+max fitness: 40.900000000000006
+average fitness: 39.39299999999997
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 435
+max fitness: 40.900000000000006
+average fitness: 39.36299999999998
+minimum fitness:  35.60000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 436
+max fitness: 40.900000000000006
+average fitness: 39.369999999999955
+minimum fitness:  36.60000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 437
+max fitness: 40.900000000000006
+average fitness: 39.308999999999976
+minimum fitness:  34.900000000000006
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 438
+max fitness: 40.900000000000006
+average fitness: 39.27599999999996
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 439
+max fitness: 40.900000000000006
+average fitness: 39.36499999999997
+minimum fitness:  31.80000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 440
+max fitness: 40.900000000000006
+average fitness: 39.386999999999965
+minimum fitness:  38.20000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 441
+max fitness: 40.900000000000006
+average fitness: 39.243999999999964
+minimum fitness:  29.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 442
+max fitness: 40.900000000000006
+average fitness: 39.10599999999996
+minimum fitness:  29.80000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 443
+max fitness: 40.900000000000006
+average fitness: 39.529999999999966
+minimum fitness:  35.80000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 444
+max fitness: 40.900000000000006
+average fitness: 39.26399999999996
+minimum fitness:  38.20000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 445
+max fitness: 41.20000000000001
+average fitness: 39.52799999999996
+minimum fitness:  38.20000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 446
+max fitness: 42.2
+average fitness: 39.58399999999997
+minimum fitness:  37.900000000000006
+xoooocxcooS
+coooooxcxcS
+xccccoccoc
+cxoxoxxcoxS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 447
+max fitness: 40.900000000000006
+average fitness: 39.42399999999997
+minimum fitness:  33.900000000000006
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 448
+max fitness: 41.20000000000001
+average fitness: 39.55999999999996
+minimum fitness:  38.20000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 449
+max fitness: 41.20000000000001
+average fitness: 39.42499999999997
+minimum fitness:  34.900000000000006
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 450
+max fitness: 41.20000000000001
+average fitness: 39.31499999999996
+minimum fitness:  35.900000000000006
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 451
+max fitness: 41.7
+average fitness: 39.385999999999974
+minimum fitness:  33.20000000000002
+xoooooooxcS
+cooooooxxc
+xcocococxx
+cxoxoxxcoxS
+oooooxxooo
+oooooooxxo
+===
+Gen: 452
+max fitness: 41.20000000000001
+average fitness: 39.20799999999998
+minimum fitness:  34.00000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 453
+max fitness: 41.20000000000001
+average fitness: 39.34999999999996
+minimum fitness:  35.2
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 454
+max fitness: 41.20000000000001
+average fitness: 39.342999999999975
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 455
+max fitness: 40.900000000000006
+average fitness: 39.33899999999996
+minimum fitness:  33.900000000000006
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 456
+max fitness: 40.900000000000006
+average fitness: 39.490999999999964
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 457
+max fitness: 41.20000000000001
+average fitness: 39.05099999999997
+minimum fitness:  33.20000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 458
+max fitness: 40.900000000000006
+average fitness: 39.07899999999995
+minimum fitness:  34.000000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 459
+max fitness: 41.20000000000001
+average fitness: 39.276999999999965
+minimum fitness:  37.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 460
+max fitness: 41.20000000000001
+average fitness: 39.25199999999997
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 461
+max fitness: 40.900000000000006
+average fitness: 39.231999999999964
+minimum fitness:  37.30000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 462
+max fitness: 41.20000000000001
+average fitness: 39.251999999999946
+minimum fitness:  37.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 463
+max fitness: 40.900000000000006
+average fitness: 39.438999999999965
+minimum fitness:  37.50000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 464
+max fitness: 41.20000000000001
+average fitness: 39.22199999999997
+minimum fitness:  34.00000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 465
+max fitness: 40.900000000000006
+average fitness: 39.185999999999964
+minimum fitness:  37.20000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxoxxcxoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 466
+max fitness: 41.20000000000001
+average fitness: 39.43399999999995
+minimum fitness:  34.00000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 467
+max fitness: 41.20000000000001
+average fitness: 39.41999999999998
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 468
+max fitness: 41.20000000000001
+average fitness: 39.218999999999966
+minimum fitness:  32.500000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 469
+max fitness: 41.20000000000001
+average fitness: 39.199999999999974
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 470
+max fitness: 41.20000000000001
+average fitness: 39.30999999999997
+minimum fitness:  36.600000000000016
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 471
+max fitness: 41.20000000000001
+average fitness: 39.39099999999996
+minimum fitness:  37.500000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 472
+max fitness: 41.20000000000001
+average fitness: 39.062999999999974
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 473
+max fitness: 41.20000000000001
+average fitness: 39.14799999999997
+minimum fitness:  31.200000000000017
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 474
+max fitness: 41.20000000000001
+average fitness: 39.499999999999986
+minimum fitness:  37.30000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 475
+max fitness: 41.20000000000001
+average fitness: 39.45499999999997
+minimum fitness:  33.2
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 476
+max fitness: 40.900000000000006
+average fitness: 39.140999999999956
+minimum fitness:  32.500000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 477
+max fitness: 41.20000000000001
+average fitness: 39.07599999999997
+minimum fitness:  36.2
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 478
+max fitness: 41.20000000000001
+average fitness: 39.39899999999997
+minimum fitness:  37.20000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 479
+max fitness: 41.20000000000001
+average fitness: 39.49699999999997
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 480
+max fitness: 41.20000000000001
+average fitness: 39.45099999999998
+minimum fitness:  37.500000000000014
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 481
+max fitness: 41.20000000000001
+average fitness: 39.580999999999975
+minimum fitness:  36.80000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 482
+max fitness: 41.20000000000001
+average fitness: 39.29699999999998
+minimum fitness:  37.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 483
+max fitness: 41.20000000000001
+average fitness: 39.125999999999976
+minimum fitness:  35.30000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 484
+max fitness: 41.20000000000001
+average fitness: 39.41599999999998
+minimum fitness:  36.80000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 485
+max fitness: 41.400000000000006
+average fitness: 39.494
+minimum fitness:  36.80000000000001
+xooocxcoocS
+coooooooxx
+xcccoccccc
+cxoxoxoxxcS
+oooooooccc
+oooooooxcxS
+===
+Gen: 486
+max fitness: 41.20000000000001
+average fitness: 39.41899999999998
+minimum fitness:  36.8
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 487
+max fitness: 41.20000000000001
+average fitness: 39.502999999999965
+minimum fitness:  37.400000000000006
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 488
+max fitness: 41.20000000000001
+average fitness: 39.37499999999998
+minimum fitness:  32.80000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 489
+max fitness: 41.20000000000001
+average fitness: 39.32699999999996
+minimum fitness:  36.10000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 490
+max fitness: 41.20000000000001
+average fitness: 39.329999999999984
+minimum fitness:  37.50000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 491
+max fitness: 41.20000000000001
+average fitness: 39.613
+minimum fitness:  34.50000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 492
+max fitness: 41.20000000000001
+average fitness: 39.27199999999998
+minimum fitness:  36.30000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 493
+max fitness: 41.20000000000001
+average fitness: 39.57299999999999
+minimum fitness:  37.80000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 494
+max fitness: 41.20000000000001
+average fitness: 39.30899999999996
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 495
+max fitness: 41.20000000000001
+average fitness: 39.403999999999975
+minimum fitness:  35.30000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 496
+max fitness: 41.20000000000001
+average fitness: 39.57599999999999
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 497
+max fitness: 41.20000000000001
+average fitness: 39.50699999999999
+minimum fitness:  34.20000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 498
+max fitness: 41.20000000000001
+average fitness: 39.40799999999998
+minimum fitness:  37.20000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 499
+max fitness: 41.20000000000001
+average fitness: 39.200999999999986
+minimum fitness:  36.10000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 500
+max fitness: 41.20000000000001
+average fitness: 39.14499999999999
+minimum fitness:  33.50000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 501
+max fitness: 41.20000000000001
+average fitness: 39.52699999999997
+minimum fitness:  36.80000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 502
+max fitness: 41.20000000000001
+average fitness: 39.495999999999974
+minimum fitness:  37.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 503
+max fitness: 41.20000000000001
+average fitness: 39.520999999999994
+minimum fitness:  37.500000000000014
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 504
+max fitness: 41.20000000000001
+average fitness: 39.45799999999997
+minimum fitness:  32.60000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 505
+max fitness: 41.20000000000001
+average fitness: 39.45699999999997
+minimum fitness:  33.20000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 506
+max fitness: 41.20000000000001
+average fitness: 39.59199999999999
+minimum fitness:  32.000000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 507
+max fitness: 41.20000000000001
+average fitness: 39.40399999999999
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 508
+max fitness: 41.20000000000001
+average fitness: 39.70599999999999
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 509
+max fitness: 41.20000000000001
+average fitness: 39.55899999999999
+minimum fitness:  37.30000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 510
+max fitness: 41.20000000000001
+average fitness: 39.545999999999964
+minimum fitness:  36.60000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 511
+max fitness: 41.20000000000001
+average fitness: 39.732999999999976
+minimum fitness:  32.10000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 512
+max fitness: 41.20000000000001
+average fitness: 39.54999999999998
+minimum fitness:  35.3
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 513
+max fitness: 41.20000000000001
+average fitness: 39.354
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 514
+max fitness: 41.20000000000001
+average fitness: 39.34699999999998
+minimum fitness:  36.900000000000006
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 515
+max fitness: 41.20000000000001
+average fitness: 39.541999999999994
+minimum fitness:  35.10000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 516
+max fitness: 41.20000000000001
+average fitness: 39.375999999999955
+minimum fitness:  32.70000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 517
+max fitness: 41.20000000000001
+average fitness: 39.60599999999997
+minimum fitness:  35.30000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 518
+max fitness: 41.20000000000001
+average fitness: 39.281999999999975
+minimum fitness:  35.30000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 519
+max fitness: 41.20000000000001
+average fitness: 39.514999999999986
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 520
+max fitness: 41.20000000000001
+average fitness: 39.468999999999966
+minimum fitness:  35.50000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 521
+max fitness: 41.20000000000001
+average fitness: 39.321999999999974
+minimum fitness:  34.900000000000006
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 522
+max fitness: 41.20000000000001
+average fitness: 39.261999999999965
+minimum fitness:  38.2
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 523
+max fitness: 41.20000000000001
+average fitness: 39.24299999999999
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 524
+max fitness: 41.20000000000001
+average fitness: 39.128999999999984
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 525
+max fitness: 41.20000000000001
+average fitness: 39.52899999999998
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 526
+max fitness: 41.20000000000001
+average fitness: 39.369999999999976
+minimum fitness:  37.50000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 527
+max fitness: 41.20000000000001
+average fitness: 39.49599999999999
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 528
+max fitness: 41.20000000000001
+average fitness: 39.667
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 529
+max fitness: 41.20000000000001
+average fitness: 39.345999999999975
+minimum fitness:  30.500000000000018
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 530
+max fitness: 41.20000000000001
+average fitness: 39.45799999999998
+minimum fitness:  37.50000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 531
+max fitness: 41.20000000000001
+average fitness: 39.49499999999996
+minimum fitness:  36.30000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 532
+max fitness: 41.20000000000001
+average fitness: 39.286999999999985
+minimum fitness:  34.00000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 533
+max fitness: 41.20000000000001
+average fitness: 39.19599999999998
+minimum fitness:  37.50000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 534
+max fitness: 41.20000000000001
+average fitness: 39.36699999999997
+minimum fitness:  30.500000000000004
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 535
+max fitness: 41.20000000000001
+average fitness: 39.55599999999998
+minimum fitness:  34.600000000000016
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 536
+max fitness: 41.20000000000001
+average fitness: 39.28099999999998
+minimum fitness:  36.50000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxocxoxcoxS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 537
+max fitness: 41.20000000000001
+average fitness: 39.233999999999966
+minimum fitness:  36.7
+xoooooooxcS
+coooooxxoo
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 538
+max fitness: 41.20000000000001
+average fitness: 39.772
+minimum fitness:  35.50000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 539
+max fitness: 41.20000000000001
+average fitness: 39.62299999999998
+minimum fitness:  28.800000000000008
+xooooxcoooS
+coooooxxoo
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 540
+max fitness: 41.20000000000001
+average fitness: 39.61099999999998
+minimum fitness:  35.50000000000001
+xooooooxcoS
+cooooooxxo
+xccccccccc
+cxoxcxcoxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 541
+max fitness: 41.20000000000001
+average fitness: 39.525999999999975
+minimum fitness:  33.90000000000002
+xooooxcoooS
+coooooxxoo
+xccccccccc
+cxoxcxcoxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 542
+max fitness: 41.20000000000001
+average fitness: 39.65499999999998
+minimum fitness:  32.90000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 543
+max fitness: 44.400000000000006
+average fitness: 39.874
+minimum fitness:  36.300000000000004
+xooooooxcoS
+cooooxxcoo
+xccccccccc
+cxoxcoxxcoS
+oooooooxccS
+ooooooooxcS
+===
+Gen: 544
+max fitness: 41.20000000000001
+average fitness: 39.50899999999996
+minimum fitness:  33.900000000000006
+xooooooxcoS
+cooooooxxo
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 545
+max fitness: 41.20000000000001
+average fitness: 39.84299999999997
+minimum fitness:  37.50000000000001
+xooooxcoooS
+cooooooxxo
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 546
+max fitness: 41.20000000000001
+average fitness: 39.68699999999997
+minimum fitness:  36.600000000000016
+xooooooxcoS
+coooooxxoo
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 547
+max fitness: 41.20000000000001
+average fitness: 39.744
+minimum fitness:  37.500000000000014
+xoooooxcooS
+cooooooxxo
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 548
+max fitness: 41.20000000000001
+average fitness: 39.793
+minimum fitness:  37.2
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 549
+max fitness: 41.20000000000001
+average fitness: 39.617000000000004
+minimum fitness:  37.500000000000014
+xoooooxcooS
+coooooxxoo
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 550
+max fitness: 41.20000000000001
+average fitness: 39.49499999999999
+minimum fitness:  32.60000000000001
+xooooooxcoS
+cooooxxooo
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 551
+max fitness: 41.20000000000001
+average fitness: 39.960999999999984
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooxxoo
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 552
+max fitness: 41.20000000000001
+average fitness: 39.768999999999984
+minimum fitness:  36.40000000000001
+xoooooxcooS
+coooooxxoo
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 553
+max fitness: 41.20000000000001
+average fitness: 39.83099999999997
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooxxoo
+xccccccccc
+cxoxcxcoxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 554
+max fitness: 41.20000000000001
+average fitness: 39.880999999999986
+minimum fitness:  38.20000000000001
+xooooxcoooS
+cooooooxxo
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 555
+max fitness: 41.20000000000001
+average fitness: 39.982999999999976
+minimum fitness:  38.20000000000001
+xoooooxcooS
+cooooxxooo
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 556
+max fitness: 41.20000000000001
+average fitness: 39.93699999999998
+minimum fitness:  38.20000000000001
+xooooooxcoS
+cooooooxxo
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 557
+max fitness: 41.20000000000001
+average fitness: 39.94699999999997
+minimum fitness:  38.20000000000001
+xooooxcoooS
+coooooxxoo
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 558
+max fitness: 41.20000000000001
+average fitness: 40.09799999999998
+minimum fitness:  34.10000000000001
+xooooxcoooS
+cooooxxooo
+xccccccccc
+cxoxcxcoxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 559
+max fitness: 41.20000000000001
+average fitness: 40.23499999999998
+minimum fitness:  38.20000000000001
+xooooooxcoS
+cooooooxxo
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 560
+max fitness: 41.20000000000001
+average fitness: 39.88299999999998
+minimum fitness:  37.80000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 561
+max fitness: 41.20000000000001
+average fitness: 39.90799999999997
+minimum fitness:  38.00000000000001
+xoooooxcooS
+coooooxxoo
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 562
+max fitness: 41.20000000000001
+average fitness: 39.951999999999984
+minimum fitness:  38.20000000000001
+xooooooxcoS
+cooooooxxo
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 563
+max fitness: 41.20000000000001
+average fitness: 40.01399999999997
+minimum fitness:  37.500000000000014
+xoooooooxcS
+cooooooxxo
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 564
+max fitness: 41.20000000000001
+average fitness: 39.92399999999998
+minimum fitness:  38.20000000000001
+xoooooxcooS
+cooooxxooo
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 565
+max fitness: 41.20000000000001
+average fitness: 40.004999999999974
+minimum fitness:  37.70000000000001
+xooooooxcoS
+cooooooxxo
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 566
+max fitness: 41.20000000000001
+average fitness: 39.997999999999976
+minimum fitness:  38.00000000000001
+xoooooooxcS
+cooooooxxo
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 567
+max fitness: 41.20000000000001
+average fitness: 39.754
+minimum fitness:  34.00000000000002
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 568
+max fitness: 41.20000000000001
+average fitness: 39.80699999999999
+minimum fitness:  34.00000000000002
+xoooooxcooS
+coooooxxoo
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 569
+max fitness: 41.20000000000001
+average fitness: 39.754999999999974
+minimum fitness:  35.80000000000001
+xooooxcoooS
+cooooxxooo
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 570
+max fitness: 41.20000000000001
+average fitness: 39.91599999999997
+minimum fitness:  37.20000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 571
+max fitness: 41.20000000000001
+average fitness: 39.93199999999998
+minimum fitness:  33.100000000000016
+xoooooxcooS
+coooooxxoo
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 572
+max fitness: 41.20000000000001
+average fitness: 39.80099999999997
+minimum fitness:  35.80000000000001
+xoooooooxcS
+cooooxxooo
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 573
+max fitness: 41.20000000000001
+average fitness: 40.12399999999996
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 574
+max fitness: 41.20000000000001
+average fitness: 40.03999999999998
+minimum fitness:  38.20000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 575
+max fitness: 41.20000000000001
+average fitness: 40.16499999999996
+minimum fitness:  38.20000000000001
+xooooooxcoS
+cooooooxxo
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 576
+max fitness: 41.20000000000001
+average fitness: 40.00399999999996
+minimum fitness:  38.20000000000001
+xoooooxcooS
+cooooooxxo
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 577
+max fitness: 41.20000000000001
+average fitness: 39.85099999999997
+minimum fitness:  33.90000000000001
+xooooooxcoS
+cooooxxooo
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 578
+max fitness: 41.20000000000001
+average fitness: 39.73799999999999
+minimum fitness:  38.20000000000001
+xoooooxcooS
+cooooooxxo
+xccccccccc
+cxoxcoxxcoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 579
+max fitness: 41.20000000000001
+average fitness: 39.779
+minimum fitness:  37.30000000000001
+xooooxcoooS
+cooooxxooo
+xccccccccc
+cxoxcxcoxoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 580
+max fitness: 41.20000000000001
+average fitness: 39.858999999999995
+minimum fitness:  33.90000000000002
+xoooooooxcS
+cooooxxooo
+xccccccccc
+cxoxcoxxcoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 581
+max fitness: 41.20000000000001
+average fitness: 39.98599999999999
+minimum fitness:  38.20000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 582
+max fitness: 41.20000000000001
+average fitness: 40.05
+minimum fitness:  36.500000000000014
+xooooxcoooS
+cooooxxooo
+xccccccccc
+cxoxcxcoxoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 583
+max fitness: 41.20000000000001
+average fitness: 39.93399999999999
+minimum fitness:  38.20000000000001
+xoooooxcooS
+cooooooxxo
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 584
+max fitness: 41.20000000000001
+average fitness: 39.963
+minimum fitness:  36.20000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 585
+max fitness: 41.20000000000001
+average fitness: 40.07299999999998
+minimum fitness:  38.20000000000001
+xoooooooxcS
+cooooxxooo
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 586
+max fitness: 41.20000000000001
+average fitness: 39.89900000000001
+minimum fitness:  38.20000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 587
+max fitness: 41.20000000000001
+average fitness: 39.602
+minimum fitness:  38.20000000000001
+xoooooooxcS
+coooooxxoo
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 588
+max fitness: 41.20000000000001
+average fitness: 39.848
+minimum fitness:  38.20000000000001
+xooooxcoooS
+cooooxxooo
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 589
+max fitness: 41.20000000000001
+average fitness: 39.89499999999999
+minimum fitness:  33.90000000000002
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 590
+max fitness: 41.20000000000001
+average fitness: 40.10399999999997
+minimum fitness:  35.90000000000002
+xoooooxcooS
+coooooxxoo
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 591
+max fitness: 41.20000000000001
+average fitness: 39.73699999999998
+minimum fitness:  34.00000000000002
+xooooxcoooS
+cooooxxooo
+xccccccccc
+cxoxcoxxcoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 592
+max fitness: 41.20000000000001
+average fitness: 39.795999999999964
+minimum fitness:  34.50000000000001
+xoooooxcooS
+cooooxxooo
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 593
+max fitness: 41.20000000000001
+average fitness: 39.990999999999964
+minimum fitness:  38.20000000000001
+xoooooxcooS
+coooooxxoo
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 594
+max fitness: 41.20000000000001
+average fitness: 40.01999999999999
+minimum fitness:  36.500000000000014
+xooooooxcoS
+coooooxxoo
+xccccccccc
+cxoxcoxxcoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 595
+max fitness: 41.20000000000001
+average fitness: 40.07399999999998
+minimum fitness:  38.20000000000001
+xooooooxcoS
+coooooxxoo
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 596
+max fitness: 41.20000000000001
+average fitness: 39.77000000000001
+minimum fitness:  37.20000000000001
+xoooooxcooS
+cooooxxooo
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 597
+max fitness: 41.20000000000001
+average fitness: 39.94399999999998
+minimum fitness:  35.7
+xooooooxcoS
+cooooxxooo
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 598
+max fitness: 41.20000000000001
+average fitness: 40.170999999999964
+minimum fitness:  36.500000000000014
+xoooooooxcS
+coooooxxoo
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 599
+max fitness: 41.20000000000001
+average fitness: 39.76399999999999
+minimum fitness:  37.900000000000006
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 600
+max fitness: 41.20000000000001
+average fitness: 39.981999999999985
+minimum fitness:  33.50000000000001
+xooooxcoooS
+coooooxxoo
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 601
+max fitness: 41.20000000000001
+average fitness: 40.15699999999998
+minimum fitness:  37.500000000000014
+xooooooxcoS
+cooooooxxo
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 602
+max fitness: 41.20000000000001
+average fitness: 40.027999999999984
+minimum fitness:  38.20000000000001
+xoooooooxcS
+coooooxxoo
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 603
+max fitness: 41.20000000000001
+average fitness: 39.95999999999998
+minimum fitness:  38.20000000000001
+xoooooooxcS
+cooooxxooo
+xccccccccc
+cxoxcoxxcoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 604
+max fitness: 41.20000000000001
+average fitness: 39.98999999999999
+minimum fitness:  33.60000000000001
+xooooxcoooS
+coooooxxoo
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 605
+max fitness: 41.20000000000001
+average fitness: 40.03799999999999
+minimum fitness:  34.00000000000002
+xoooooxcooS
+cooooooxxo
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 606
+max fitness: 41.20000000000001
+average fitness: 40.03499999999999
+minimum fitness:  34.00000000000002
+xoooooooxcS
+cooooooxxo
+xccccccccc
+cxoxcoxxcoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 607
+max fitness: 41.20000000000001
+average fitness: 39.99199999999998
+minimum fitness:  34.00000000000002
+xooooooxcoS
+coooooxxoo
+xccccccccc
+cxoxcoxxcoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 608
+max fitness: 41.20000000000001
+average fitness: 39.97699999999999
+minimum fitness:  36.80000000000001
+xoooooxcooS
+coooooxxoo
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 609
+max fitness: 41.20000000000001
+average fitness: 39.93599999999997
+minimum fitness:  32.70000000000002
+xoooooooxcS
+coooooxxoo
+xccccccccc
+cxoxcoxxcoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 610
+max fitness: 41.20000000000001
+average fitness: 39.913999999999994
+minimum fitness:  37.20000000000001
+xooooooxcoS
+coooooxxoo
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 611
+max fitness: 41.20000000000001
+average fitness: 39.997999999999976
+minimum fitness:  38.20000000000001
+xoooooooxcS
+cooooooxxo
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 612
+max fitness: 41.20000000000001
+average fitness: 39.733000000000004
+minimum fitness:  37.500000000000014
+xooooooxcoS
+coooooxxoo
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 613
+max fitness: 41.20000000000001
+average fitness: 39.83499999999999
+minimum fitness:  37.50000000000001
+xooooooxcoS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 614
+max fitness: 41.20000000000001
+average fitness: 40.03299999999999
+minimum fitness:  34.00000000000002
+xooooxcoooS
+cooooxxooo
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 615
+max fitness: 41.20000000000001
+average fitness: 39.83599999999998
+minimum fitness:  36.50000000000001
+xooooooxcoS
+cooooooxxo
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 616
+max fitness: 41.20000000000001
+average fitness: 40.28499999999996
+minimum fitness:  35.400000000000006
+xooooxcoooS
+cooooooxxo
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 617
+max fitness: 41.20000000000001
+average fitness: 39.93299999999997
+minimum fitness:  35.80000000000001
+xoooooxcooS
+coooooxxoo
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 618
+max fitness: 41.20000000000001
+average fitness: 40.25399999999996
+minimum fitness:  38.20000000000001
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 619
+max fitness: 41.20000000000001
+average fitness: 39.56899999999998
+minimum fitness:  31.200000000000017
+xoooooooxcS
+cooooxxooo
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 620
+max fitness: 41.20000000000001
+average fitness: 40.06299999999996
+minimum fitness:  38.20000000000001
+xoooooxcooS
+cooooxxooo
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 621
+max fitness: 41.20000000000001
+average fitness: 39.827999999999996
+minimum fitness:  37.80000000000001
+xooooooxcoS
+cooooooxxo
+xccccccccc
+cxoxcoxxcoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 622
+max fitness: 41.20000000000001
+average fitness: 40.01599999999999
+minimum fitness:  38.20000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 623
+max fitness: 41.20000000000001
+average fitness: 39.507999999999996
+minimum fitness:  29.200000000000003
+xooooxcoooS
+cooooxxooo
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 624
+max fitness: 41.20000000000001
+average fitness: 39.794999999999995
+minimum fitness:  38.20000000000001
+xoooooooxcS
+cooooooxxo
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 625
+max fitness: 41.20000000000001
+average fitness: 39.880999999999965
+minimum fitness:  38.20000000000001
+xooooxcoooS
+cooooxxooo
+xccccccccc
+cxoxcxcoxoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 626
+max fitness: 41.20000000000001
+average fitness: 39.819999999999965
+minimum fitness:  38.20000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 627
+max fitness: 41.20000000000001
+average fitness: 39.65599999999998
+minimum fitness:  33.10000000000002
+xoooooxcooS
+coooooxxoo
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 628
+max fitness: 41.20000000000001
+average fitness: 39.95199999999998
+minimum fitness:  38.20000000000001
+xoooooxcooS
+cooooxxooo
+xccccccccc
+cxoxcxcoxoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 629
+max fitness: 41.20000000000001
+average fitness: 40.05099999999998
+minimum fitness:  38.20000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 630
+max fitness: 41.20000000000001
+average fitness: 39.78799999999999
+minimum fitness:  36.30000000000001
+xooooxcoooS
+cooooooxxo
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 631
+max fitness: 41.20000000000001
+average fitness: 39.793
+minimum fitness:  32.70000000000002
+xoooooooxcS
+cooooxxooo
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 632
+max fitness: 41.20000000000001
+average fitness: 39.87999999999997
+minimum fitness:  37.20000000000001
+xooooooxcoS
+coooooxxoo
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 633
+max fitness: 41.20000000000001
+average fitness: 39.95399999999997
+minimum fitness:  35.50000000000001
+xoooooxcooS
+cooooooxxo
+xccccccccc
+cxoxcoxxcoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 634
+max fitness: 41.20000000000001
+average fitness: 40.02999999999997
+minimum fitness:  38.20000000000001
+xoooooooxcS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 635
+max fitness: 41.20000000000001
+average fitness: 39.86599999999999
+minimum fitness:  36.10000000000001
+xooooooxcoS
+cooooooxxo
+xccccccccc
+cxoxcxcoxoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 636
+max fitness: 41.20000000000001
+average fitness: 39.87899999999998
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 637
+max fitness: 41.20000000000001
+average fitness: 39.982999999999976
+minimum fitness:  37.500000000000014
+xooooxcoooS
+coooooxxoo
+xccccccccc
+cxoxcxcoxoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 638
+max fitness: 41.20000000000001
+average fitness: 39.95799999999997
+minimum fitness:  37.80000000000001
+xoooooxcooS
+coooooooxx
+xccccccccc
+cxoxcoxxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 639
+max fitness: 41.400000000000006
+average fitness: 39.69999999999999
+minimum fitness:  37.10000000000001
+xooooooxcxS
+cooooxxooo
+xcococxxoc
+cxoxoxxcoxS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 640
+max fitness: 41.400000000000006
+average fitness: 39.944999999999986
+minimum fitness:  38.20000000000001
+xooooooxcxS
+cooooxxooo
+xcococxxoc
+cxoxoxxcoxS
+oooooxxooo
+oooooxxooo
+===
+Gen: 641
+max fitness: 41.20000000000001
+average fitness: 39.80499999999997
+minimum fitness:  34.80000000000001
+xoooooooxcS
+cooooxxooo
+xccccccccc
+cxoxcxcoxoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 642
+max fitness: 42.400000000000006
+average fitness: 39.82499999999999
+minimum fitness:  37.7
+xoooooooxcS
+cooooxxooo
+xcococxxoc
+cxoxoxxcoxS
+oooooooxxo
+oooooxxooo
+===
+Gen: 643
+max fitness: 42.400000000000006
+average fitness: 39.79699999999998
+minimum fitness:  37.80000000000001
+xoooooooxcS
+coooooooxx
+xcocococxx
+cxoxoxxcoxS
+oooooxxooo
+ooooooooxx
+===
+Gen: 644
+max fitness: 42.400000000000006
+average fitness: 39.802
+minimum fitness:  37.500000000000014
+xoooooooxcS
+cooooxxooo
+xcocococxx
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 645
+max fitness: 42.7
+average fitness: 39.87499999999999
+minimum fitness:  35.60000000000001
+xoooooooxcS
+cooooooxxo
+xcxocxocxo
+cxcoxcoxcoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 646
+max fitness: 41.7
+average fitness: 39.879999999999974
+minimum fitness:  36.0
+xoooooooxcS
+cooooooxxc
+xcococxxoc
+cxoxoxoxxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 647
+max fitness: 42.400000000000006
+average fitness: 39.61500000000002
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooxxoo
+xcococxxoc
+cxoxoxoxxcS
+oooooooxxo
+ooooooooxx
+===
+Gen: 648
+max fitness: 42.7
+average fitness: 39.63199999999998
+minimum fitness:  37.0
+xoooooooxcS
+cooooxxooo
+xcxocxocxo
+cxcoxcoxcoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 649
+max fitness: 42.400000000000006
+average fitness: 39.89799999999999
+minimum fitness:  36.0
+xoooooooxcS
+coooooxxoo
+xcocococxx
+cxoxoxxcoxS
+oooooxxooo
+ooooooooxx
+===
+Gen: 650
+max fitness: 42.400000000000006
+average fitness: 39.94999999999998
+minimum fitness:  37.20000000000001
+xoooooooxcS
+coooooooxx
+xcococxxoc
+cxoxoxoxxcS
+oooooooxxo
+ooooooooxx
+===
+Gen: 651
+max fitness: 41.400000000000006
+average fitness: 39.85399999999999
+minimum fitness:  36.0
+xooooooxcxS
+cooooooxxo
+xcococxxoc
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 652
+max fitness: 41.400000000000006
+average fitness: 39.695999999999984
+minimum fitness:  36.80000000000001
+xooooooxcxS
+coooooxxoo
+xcocococxx
+cxoxoxoxxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 653
+max fitness: 41.400000000000006
+average fitness: 39.873999999999995
+minimum fitness:  37.500000000000014
+xooooooxcxS
+coooooxxoo
+xcococxxoc
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 654
+max fitness: 42.400000000000006
+average fitness: 40.182999999999986
+minimum fitness:  38.20000000000001
+xoooooooxcS
+coooooxxoo
+xcococxxoc
+cxoxoxxcoxS
+oooooooxxo
+ooooooooxx
+===
+Gen: 655
+max fitness: 41.7
+average fitness: 40.04499999999998
+minimum fitness:  38.20000000000001
+xoooooooxcS
+cooooooxxc
+xcococxxoc
+cxoxoxxcoxS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 656
+max fitness: 42.400000000000006
+average fitness: 39.904999999999994
+minimum fitness:  36.0
+xoooooooxcS
+cooooxxooo
+xcococxxoc
+cxoxoxoxxcS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 657
+max fitness: 42.400000000000006
+average fitness: 39.747999999999976
+minimum fitness:  37.500000000000014
+xoooooooxcS
+cooooxxooo
+xcococxxoc
+cxoxoxoxxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 658
+max fitness: 42.400000000000006
+average fitness: 39.79299999999998
+minimum fitness:  36.0
+xoooooooxcS
+coooooooxx
+xcococxxoc
+cxoxoxxcoxS
+oooooxxooo
+ooooooooxx
+===
+Gen: 659
+max fitness: 42.7
+average fitness: 39.882999999999974
+minimum fitness:  37.0
+xooooooxcxS
+coooooooxx
+xcocxocxxcS
+cxoxcoxcoxS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 660
+max fitness: 42.400000000000006
+average fitness: 39.58
+minimum fitness:  37.00000000000001
+xoooooooxcS
+coooooxxoo
+xcococxxoc
+cxoxoxoxxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 661
+max fitness: 42.7
+average fitness: 39.84399999999997
+minimum fitness:  36.0
+xoooooooxcS
+cooooooxxo
+xcxocxocxo
+cxcoxcoxcoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 662
+max fitness: 42.400000000000006
+average fitness: 39.70399999999999
+minimum fitness:  36.7
+xoooooooxcS
+cooooxxooo
+xcococxxoc
+cxoxoxoxxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 663
+max fitness: 42.400000000000006
+average fitness: 39.981
+minimum fitness:  37.400000000000006
+xoooooooxcS
+cooooooxxo
+xcococxxoc
+cxoxoxoxxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 664
+max fitness: 42.400000000000006
+average fitness: 39.71299999999999
+minimum fitness:  35.500000000000014
+xoooooooxcS
+coooooxxoo
+xcocococxx
+cxoxoxoxxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 665
+max fitness: 42.400000000000006
+average fitness: 40.180999999999976
+minimum fitness:  35.50000000000001
+xoooooooxcS
+cooooooxxo
+xcocococxx
+cxoxoxxcoxS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 666
+max fitness: 42.7
+average fitness: 39.874999999999964
+minimum fitness:  36.10000000000001
+xooooooxcxS
+coooooxxoo
+xcocxocxxcS
+cxoxcoxcoxS
+ooooooooxx
+ooooooooxx
+===
+Gen: 667
+max fitness: 42.7
+average fitness: 39.853999999999985
+minimum fitness:  37.0
+xoooooooxcS
+coooooooxx
+xcocxocxoc
+cxoxcoxcoxS
+oooooooxxo
+oooooooxxo
+===
+Gen: 668
+max fitness: 42.7
+average fitness: 39.77599999999997
+minimum fitness:  37.0
+xooooooxcxS
+cooooooxxo
+xcocxocxxcS
+cxoxcoxcoxS
+oooooxxooo
+ooooooooxx
+===
+Gen: 669
+max fitness: 42.7
+average fitness: 39.682999999999986
+minimum fitness:  36.0
+xooooooxcxS
+cooooooxxo
+xcocxocxxcS
+cxoxcoxcoxS
+oooooxxooo
+oooooxxooo
+===
+Gen: 670
+max fitness: 42.400000000000006
+average fitness: 39.78099999999998
+minimum fitness:  34.00000000000002
+xoooooooxcS
+coooooxxoo
+xcococxxoc
+cxoxoxoxxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 671
+max fitness: 43.7
+average fitness: 39.914999999999985
+minimum fitness:  33.600000000000016
+xoooooooxcS
+cooooooxxo
+xcxocxxcxoS
+cxcoxcoxcoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 672
+max fitness: 42.400000000000006
+average fitness: 39.918999999999976
+minimum fitness:  36.0
+xoooooooxcS
+cooooooxxo
+xcocococxx
+cxoxoxoxxcS
+oooooooxxo
+ooooooooxx
+===
+Gen: 673
+max fitness: 43.7
+average fitness: 39.649999999999984
+minimum fitness:  36.80000000000001
+xoooooooxcS
+coooooxxoo
+xcocxxcxocS
+cxoxcoxcoxS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 674
+max fitness: 42.7
+average fitness: 40.03599999999997
+minimum fitness:  33.600000000000016
+xooooooxcxS
+cooooooxxo
+xcxocxxcxoS
+cxcoxcoxcoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 675
+max fitness: 43.7
+average fitness: 39.429999999999986
+minimum fitness:  30.800000000000004
+xoooooooxcS
+cooooxxooo
+xcocxocxxcS
+cxoxcoxcoxS
+ooooooooxx
+ooooooooxx
+===
+Gen: 676
+max fitness: 43.7
+average fitness: 39.75299999999996
+minimum fitness:  33.20000000000001
+xoooooooxcS
+cooooooxxo
+xcocxxcxocS
+cxoxcoxcoxS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 677
+max fitness: 42.7
+average fitness: 39.78899999999998
+minimum fitness:  36.0
+xooooooxcxS
+coooooooxx
+xcocxocxxcS
+cxoxcoxcoxS
+ooooooooxx
+oooooooxxo
+===
+Gen: 678
+max fitness: 43.7
+average fitness: 39.60399999999998
+minimum fitness:  35.300000000000004
+xoooooooxcS
+cooooooxxo
+xcocxxcxocS
+cxoxcoxcoxS
+ooooooooxx
+oooooxxooo
+===
+Gen: 679
+max fitness: 43.7
+average fitness: 39.172000000000004
+minimum fitness:  24.1
+xoooooooxcS
+cooooxxooo
+xcocxocxxcS
+cxoxcoxcoxS
+ooooooooxx
+ooooooooxx
+===
+Gen: 680
+max fitness: 42.7
+average fitness: 39.72199999999999
+minimum fitness:  36.0
+xoooooooxcS
+coooooxxoo
+xcocxocxoc
+cxoxcoxcoxS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 681
+max fitness: 42.7
+average fitness: 39.47799999999997
+minimum fitness:  36.0
+xoooooooxcS
+cooooxxooo
+xcxocxxcxoS
+cxcoxxcoxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 682
+max fitness: 43.7
+average fitness: 39.355
+minimum fitness:  33.500000000000014
+xoooooooxcS
+cooooxxooo
+xcocxxcxocS
+cxoxcoxcoxS
+ooooooooxx
+oooooxxooo
+===
+Gen: 683
+max fitness: 42.7
+average fitness: 39.746
+minimum fitness:  36.0
+xooooooxcxS
+cooooxxooo
+xcocxxcxocS
+cxoxcoxcoxS
+ooooooooxx
+oooooxxooo
+===
+Gen: 684
+max fitness: 43.7
+average fitness: 39.55699999999999
+minimum fitness:  34.60000000000001
+xoooooooxcS
+cooooxxooo
+xcocxxcxocS
+cxoxcoxcoxS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 685
+max fitness: 42.7
+average fitness: 39.56099999999999
+minimum fitness:  33.10000000000001
+xoooooooxcS
+coooooooxx
+xcocxocxoc
+cxoxcoxcoxS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 686
+max fitness: 43.400000000000006
+average fitness: 39.54299999999999
+minimum fitness:  35.2
+xoooooooxcS
+coooooooxx
+xcxocxxcxoS
+cxcoxoxxcoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 687
+max fitness: 42.400000000000006
+average fitness: 39.73599999999998
+minimum fitness:  34.900000000000006
+xoooooooxcS
+coooooxxoo
+xcococxxoc
+cxoxoxoxxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 688
+max fitness: 43.7
+average fitness: 39.71199999999999
+minimum fitness:  34.500000000000014
+xoooooooxcS
+cooooooxxo
+xcocxocxxcS
+cxoxcoxcoxS
+oooooooxxo
+ooooooooxx
+===
+Gen: 689
+max fitness: 44.00000000000001
+average fitness: 39.884999999999984
+minimum fitness:  30.70000000000001
+xoooooooxcS
+cooooxxooo
+xcoxocxxcxS
+cxococxcocS
+ooooooooxx
+ooooooooxx
+===
+Gen: 690
+max fitness: 42.400000000000006
+average fitness: 40.058
+minimum fitness:  35.199999999999996
+xoooooooxcS
+cooooooxxo
+xcococxxoc
+cxoxoxoxxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 691
+max fitness: 43.00000000000001
+average fitness: 39.72799999999997
+minimum fitness:  34.5
+xoooooooxcS
+coooooxxoo
+xcoxocxocx
+cxocococxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 692
+max fitness: 44.00000000000001
+average fitness: 39.997
+minimum fitness:  33.400000000000006
+xoooooooxcS
+coooooxxoo
+xcoxocxxcxS
+cxocococxcS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 693
+max fitness: 44.00000000000001
+average fitness: 39.59700000000001
+minimum fitness:  33.10000000000001
+xoooooooxcS
+coooooxxoo
+xcoxocxxcxS
+cxocococxcS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 694
+max fitness: 42.7
+average fitness: 39.83399999999999
+minimum fitness:  37.0
+xooooooxcxS
+coooooooxx
+xcoxoxocxo
+cxococxcocS
+oooooooxxo
+oooooooxxo
+===
+Gen: 695
+max fitness: 42.400000000000006
+average fitness: 39.71699999999998
+minimum fitness:  35.60000000000001
+xoooooooxcS
+coooooooxx
+xcoxoxxxox
+cxocococxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 696
+max fitness: 43.7
+average fitness: 39.94199999999998
+minimum fitness:  36.0
+xoooooooxcS
+cooooxxooo
+xcocxxcxocS
+cxoxcoxcoxS
+oooooooxxo
+ooooooooxx
+===
+Gen: 697
+max fitness: 43.7
+average fitness: 39.63399999999999
+minimum fitness:  33.5
+xoooooooxcS
+cooooxxooo
+xcoxoxocxo
+cxococxcocS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 698
+max fitness: 42.7
+average fitness: 39.81999999999998
+minimum fitness:  35.300000000000004
+xoooooooxcS
+cooooxxooo
+xcoxocxocx
+cxoxococxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 699
+max fitness: 43.7
+average fitness: 39.667999999999985
+minimum fitness:  27.199999999999996
+xoooooooxcS
+cooooxxooo
+xcoxocxxcxS
+cxocoxcoxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 700
+max fitness: 43.7
+average fitness: 39.709999999999994
+minimum fitness:  27.199999999999996
+xoooooooxcS
+cooooooxxo
+xcoxocxxcxS
+cxocoxcoxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 701
+max fitness: 43.400000000000006
+average fitness: 39.820999999999984
+minimum fitness:  32.900000000000006
+xoooooooxcS
+coooooooxx
+xcocoxocxx
+cxoxocoxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 702
+max fitness: 43.7
+average fitness: 39.41199999999999
+minimum fitness:  35.300000000000004
+xoooooxcxcS
+coooooooxx
+xcocoxxcxoS
+cxoxocoxcoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 703
+max fitness: 43.400000000000006
+average fitness: 39.58100000000001
+minimum fitness:  34.50000000000001
+xoooooooxcS
+cooooooxxo
+xcocoxocxx
+cxoxocoxcoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 704
+max fitness: 43.00000000000001
+average fitness: 39.78200000000001
+minimum fitness:  34.90000000000002
+xooooooxcxS
+cooooooxxo
+xcoxocxxcxS
+cxocococxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 705
+max fitness: 44.400000000000006
+average fitness: 40.08199999999999
+minimum fitness:  32.800000000000004
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxocoxxcoxS
+ooooooooxx
+ooooooooxx
+===
+Gen: 706
+max fitness: 44.3
+average fitness: 40.01200000000001
+minimum fitness:  33.60000000000001
+xoooooxcxcS
+cooooooxxo
+xcoxocxxcxS
+cxocoxcoxcS
+ooooooooxx
+ooooooooxcS
+===
+Gen: 707
+max fitness: 43.400000000000006
+average fitness: 39.852
+minimum fitness:  34.60000000000001
+xoooooooxcS
+coooooxxoo
+xcocoxxxoc
+cxoxocoxcoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 708
+max fitness: 43.7
+average fitness: 39.848
+minimum fitness:  32.90000000000001
+xoooooooxcS
+coooooxxoo
+xcoxoxocxo
+cxocococxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 709
+max fitness: 43.400000000000006
+average fitness: 39.05800000000001
+minimum fitness:  22.0
+xooooooxcxS
+cooooooxxo
+xcoxocoxxcS
+cxocoxxcoxS
+oooooxxooo
+ooooooooxx
+===
+Gen: 710
+max fitness: 43.00000000000001
+average fitness: 39.96699999999999
+minimum fitness:  36.1
+xoooooooxcS
+cooooxxooo
+xcoxocxxoc
+cxocococxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 711
+max fitness: 43.7
+average fitness: 40.001000000000005
+minimum fitness:  34.900000000000006
+xoooooooxcS
+coooooooxx
+xcoxoxocxo
+cxocococxcS
+oooooooxxo
+ooooooooxx
+===
+Gen: 712
+max fitness: 44.00000000000001
+average fitness: 40.13799999999999
+minimum fitness:  35.7
+xoooooooxcS
+coooooooxx
+xcxocxxcxoS
+cxcococxcoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 713
+max fitness: 44.00000000000001
+average fitness: 39.84900000000001
+minimum fitness:  32.5
+xoooooooxcS
+cooooxxooo
+xcoxocxxcxS
+cxocococxcS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 714
+max fitness: 44.00000000000001
+average fitness: 39.722
+minimum fitness:  34.20000000000002
+xoooooooxcS
+cooooooxxo
+xcoxocxxcxS
+cxocococxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 715
+max fitness: 43.00000000000001
+average fitness: 39.88500000000002
+minimum fitness:  35.900000000000006
+xoooooooxcS
+cooooxxooo
+xcxocxocxo
+cxcococxcoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 716
+max fitness: 43.7
+average fitness: 40.162000000000006
+minimum fitness:  35.0
+xoooooooxcS
+coooooxxoo
+xcoxoxocxo
+cxococxcocS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 717
+max fitness: 43.7
+average fitness: 40.24
+minimum fitness:  35.60000000000001
+xoooooooxcS
+cooooxxooo
+xcoxoxocxo
+cxocococxcS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 718
+max fitness: 43.00000000000001
+average fitness: 40.07500000000002
+minimum fitness:  37.300000000000004
+xoooooooxcS
+coooooooxx
+xcoxocxocx
+cxococxcocS
+oooooxxooo
+oooooooxxo
+===
+Gen: 719
+max fitness: 44.00000000000001
+average fitness: 40.327000000000005
+minimum fitness:  35.300000000000004
+xoooooooxcS
+coooooooxx
+xcoxocxxcxS
+cxococxcocS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 720
+max fitness: 43.00000000000001
+average fitness: 40.20300000000002
+minimum fitness:  37.300000000000004
+xooooooxcxS
+cooooxxooo
+xcxocxxcxoS
+cxcococxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 721
+max fitness: 44.00000000000001
+average fitness: 39.544999999999995
+minimum fitness:  36.0
+xoooooooxcS
+cooooxxooo
+xcoxocxxcxS
+cxocococxcS
+oooooooxxo
+ooooooooxx
+===
+Gen: 722
+max fitness: 44.00000000000001
+average fitness: 39.807000000000016
+minimum fitness:  35.60000000000001
+xoooooooxcS
+coooooooxx
+xcxocxxcxoS
+cxcococxcoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 723
+max fitness: 43.7
+average fitness: 39.762
+minimum fitness:  36.0
+xoooooooxcS
+cooooooxxo
+xcoxoxocxo
+cxocococxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 724
+max fitness: 44.00000000000001
+average fitness: 40.036000000000016
+minimum fitness:  36.60000000000001
+xoooooooxcS
+cooooooxxo
+xcoxocxxcxS
+cxococxcocS
+ooooooooxx
+oooooooxxo
+===
+Gen: 725
+max fitness: 43.7
+average fitness: 39.53400000000002
+minimum fitness:  33.30000000000001
+xoooooooxcS
+coooooooxx
+xcoxoxocxo
+cxocococxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 726
+max fitness: 44.00000000000001
+average fitness: 40.03500000000001
+minimum fitness:  35.300000000000004
+xoooooooxcS
+cooooxxooo
+xcxocxxcxoS
+cxcocxcocoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 727
+max fitness: 44.00000000000001
+average fitness: 39.88899999999999
+minimum fitness:  31.900000000000016
+xoooooooxcS
+cooooooxxo
+xcxocxxcxoS
+cxcocxcocoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 728
+max fitness: 44.00000000000001
+average fitness: 40.047000000000025
+minimum fitness:  34.5
+xoooooooxcS
+coooooooxx
+xcxocxxcxoS
+cxcocxcocoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 729
+max fitness: 44.00000000000001
+average fitness: 39.998000000000005
+minimum fitness:  36.7
+xoooooooxcS
+coooooooxx
+xcxocxxcxoS
+cxcocxcocoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 730
+max fitness: 45.00000000000001
+average fitness: 39.839000000000006
+minimum fitness:  29.900000000000013
+xoooooooxcS
+coooooooxx
+xcoxocoxxcS
+cxocococxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 731
+max fitness: 43.7
+average fitness: 39.93900000000001
+minimum fitness:  26.700000000000006
+xoooooooxcS
+coooooxxoo
+xcoxoxocxo
+cxococxcocS
+ooooooooxx
+oooooooxxo
+===
+Gen: 732
+max fitness: 44.00000000000001
+average fitness: 40.42900000000003
+minimum fitness:  37.300000000000004
+xoooooooxcS
+coooooxxoo
+xcoxocxxcxS
+cxocococxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 733
+max fitness: 44.00000000000001
+average fitness: 40.564000000000036
+minimum fitness:  36.0
+xooooooxcxS
+cooooxxooo
+xcoxocoxxcS
+cxocococxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 734
+max fitness: 43.300000000000004
+average fitness: 40.410000000000025
+minimum fitness:  37.0
+xoooooxcxcS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+oooooxxooo
+oooooooxxo
+===
+Gen: 735
+max fitness: 44.00000000000001
+average fitness: 40.20000000000002
+minimum fitness:  36.7
+xoooooooxcS
+cooooooxxo
+xcoxocxxcxS
+cxocococxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 736
+max fitness: 44.00000000000001
+average fitness: 40.43900000000001
+minimum fitness:  37.0
+xoooooooxcS
+coooooooxx
+xcoxocxxcxS
+cxocococxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 737
+max fitness: 44.00000000000001
+average fitness: 40.608000000000025
+minimum fitness:  35.300000000000004
+xoooooooxcS
+coooooxxoo
+xcoxocxxcxS
+cxocococxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 738
+max fitness: 45.00000000000001
+average fitness: 40.25900000000002
+minimum fitness:  33.400000000000006
+xoooooooxcS
+coooooooxx
+xcoxocoxxcS
+cxocococxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 739
+max fitness: 44.400000000000006
+average fitness: 40.45000000000002
+minimum fitness:  36.0
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxoxcoxcoxS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 740
+max fitness: 44.00000000000001
+average fitness: 40.441
+minimum fitness:  36.0
+xoooooooxcS
+cooooooxxo
+xcoxocxxcxS
+cxocococxcS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 741
+max fitness: 44.00000000000001
+average fitness: 40.38400000000002
+minimum fitness:  33.5
+xoooooooxcS
+cooooxxooo
+xcoxocxxcxS
+cxocococxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 742
+max fitness: 43.00000000000001
+average fitness: 40.211999999999996
+minimum fitness:  37.300000000000004
+xoooooooxcS
+cooooxxooo
+xcoxocxocx
+cxocococxcS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 743
+max fitness: 44.00000000000001
+average fitness: 40.24200000000002
+minimum fitness:  36.0
+xoooooooxcS
+cooooxxooo
+xcoxocxxcxS
+cxocococxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 744
+max fitness: 45.00000000000001
+average fitness: 40.646000000000015
+minimum fitness:  37.300000000000004
+xoooooooxcS
+coooooooxx
+xcoxocoxxcS
+cxocococxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 745
+max fitness: 43.300000000000004
+average fitness: 40.07900000000001
+minimum fitness:  35.7
+xoooooxcxcS
+cooooooxxo
+xcoxocoxxcS
+cxocococxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 746
+max fitness: 44.00000000000001
+average fitness: 40.04700000000002
+minimum fitness:  37.0
+xoooooooxcS
+cooooxxooo
+xcoxocxxcxS
+cxococxcocS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 747
+max fitness: 44.00000000000001
+average fitness: 40.40200000000002
+minimum fitness:  34.60000000000001
+xoooooooxcS
+coooooxxoo
+xcoxocxxcxS
+cxocococxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 748
+max fitness: 44.7
+average fitness: 40.178000000000004
+minimum fitness:  36.0
+xoooooooxcS
+coooooxxoo
+xcoxoxxcxoS
+cxocococxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 749
+max fitness: 45.00000000000001
+average fitness: 40.607
+minimum fitness:  30.900000000000006
+xoooooooxcS
+cooooxxooo
+xcoxocoxxcS
+cxocococxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 750
+max fitness: 45.00000000000001
+average fitness: 40.33400000000002
+minimum fitness:  35.8
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+oooooooxxo
+===
+Gen: 751
+max fitness: 44.7
+average fitness: 40.14999999999999
+minimum fitness:  36.300000000000004
+xoooooooxcS
+cooooxxooo
+xcoxoxxcxoS
+cxococxcocS
+ooooooooxx
+ooooooooxx
+===
+Gen: 752
+max fitness: 45.00000000000001
+average fitness: 40.72200000000001
+minimum fitness:  37.300000000000004
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxocococxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 753
+max fitness: 45.00000000000001
+average fitness: 40.591000000000015
+minimum fitness:  34.900000000000006
+xoooooooxcS
+cooooxxooo
+xcoxocoxxcS
+cxocococxcS
+oooooooxxo
+ooooooooxx
+===
+Gen: 754
+max fitness: 45.00000000000001
+average fitness: 40.32800000000002
+minimum fitness:  31.900000000000006
+xoooooooxcS
+coooooooxx
+xcoxocoxxcS
+cxococxcocS
+oooooooxxo
+ooooooooxx
+===
+Gen: 755
+max fitness: 44.00000000000001
+average fitness: 40.46100000000002
+minimum fitness:  34.60000000000001
+xoooooooxcS
+coooooxxoo
+xcxocxxcxoS
+cxcocxcocoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 756
+max fitness: 44.7
+average fitness: 40.277
+minimum fitness:  31.800000000000004
+xoooooooxcS
+cooooooxxo
+xcoxocxxcxS
+cxococoxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 757
+max fitness: 44.00000000000001
+average fitness: 40.57800000000001
+minimum fitness:  37.00000000000001
+xoooooooxcS
+cooooxxooo
+xcxocxxcxoS
+cxcococxcoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 758
+max fitness: 44.00000000000001
+average fitness: 39.99300000000003
+minimum fitness:  35.0
+xoooooooxcS
+cooooooxxo
+xcxocxxcxoS
+cxcococxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 759
+max fitness: 44.00000000000001
+average fitness: 40.145000000000024
+minimum fitness:  35.900000000000006
+xoooooooxcS
+coooooxxoo
+xcoxocxxcxS
+cxococxcocS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 760
+max fitness: 44.00000000000001
+average fitness: 40.70100000000001
+minimum fitness:  37.0
+xoooooooxcS
+coooooxxoo
+xcoxocxxcxS
+cxococxcocS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 761
+max fitness: 43.300000000000004
+average fitness: 40.40600000000002
+minimum fitness:  35.900000000000006
+xoooooxcxcS
+cooooooxxo
+xcoxocoxxcS
+cxocococxcS
+oooooooxxo
+ooooooooxx
+===
+Gen: 762
+max fitness: 44.00000000000001
+average fitness: 40.25500000000002
+minimum fitness:  37.0
+xoooooooxcS
+coooooooxx
+xcxocxxcxoS
+cxcococxcoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 763
+max fitness: 45.00000000000001
+average fitness: 40.154000000000025
+minimum fitness:  32.2
+xoooooooxcS
+cooooxxooo
+xcoxocoxxcS
+cxocococxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 764
+max fitness: 44.00000000000001
+average fitness: 40.02300000000003
+minimum fitness:  36.300000000000004
+xoooooooxcS
+cooooxxooo
+xcoxocxxcxS
+cxocococxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 765
+max fitness: 44.00000000000001
+average fitness: 40.28800000000003
+minimum fitness:  36.0
+xoooooooxcS
+cooooooxxo
+xcoxocxxcxS
+cxococxcocS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 766
+max fitness: 44.00000000000001
+average fitness: 40.45900000000002
+minimum fitness:  36.0
+xoooooooxcS
+coooooxxoo
+xcxocxxcxoS
+cxcococxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 767
+max fitness: 45.00000000000001
+average fitness: 40.47100000000001
+minimum fitness:  36.400000000000006
+xoooooooxcS
+cooooooxxo
+xcoxocoxxcS
+cxocococxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 768
+max fitness: 43.00000000000001
+average fitness: 40.417
+minimum fitness:  36.60000000000001
+xoooooooxcS
+cooooxxooo
+xcoxocoxxcS
+cxococxcoc
+oooooxxooo
+oooooooxxo
+===
+Gen: 769
+max fitness: 45.00000000000001
+average fitness: 40.78200000000002
+minimum fitness:  37.7
+xoooooooxcS
+cooooxxooo
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+oooooxxooo
+===
+Gen: 770
+max fitness: 45.7
+average fitness: 40.17700000000003
+minimum fitness:  33.5
+xoooooooxcS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 771
+max fitness: 44.00000000000001
+average fitness: 40.23200000000003
+minimum fitness:  37.0
+xooooooxcxS
+coooooxxoo
+xcoxocoxxcS
+cxocococxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 772
+max fitness: 43.00000000000001
+average fitness: 40.31200000000002
+minimum fitness:  37.0
+xoooooooxcS
+coooooooxx
+xcoxocxxoc
+cxocococxcS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 773
+max fitness: 44.00000000000001
+average fitness: 40.379000000000026
+minimum fitness:  33.8
+xoooooooxcS
+coooooxxoo
+xcoxocxxcxS
+cxocococxcS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 774
+max fitness: 44.00000000000001
+average fitness: 40.35400000000002
+minimum fitness:  34.80000000000001
+xoooooooxcS
+cooooxxooo
+xcoxocxxcxS
+cxocococxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 775
+max fitness: 44.00000000000001
+average fitness: 40.69300000000002
+minimum fitness:  35.60000000000001
+xoooooooxcS
+cooooxxooo
+xcoxocxxcxS
+cxococxcocS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 776
+max fitness: 43.00000000000001
+average fitness: 40.23300000000001
+minimum fitness:  36.0
+xooooooxcxS
+coooooxxoo
+xcoxocxxcxS
+cxococxcocS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 777
+max fitness: 43.7
+average fitness: 40.17500000000001
+minimum fitness:  35.900000000000006
+xoooooooxcS
+coooooxxoo
+xcoxoxocxo
+cxocococxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 778
+max fitness: 44.00000000000001
+average fitness: 40.153000000000006
+minimum fitness:  33.500000000000014
+xoooooooxcS
+coooooooxx
+xcoxocxxcxS
+cxococxcocS
+ooooooooxx
+oooooooxxo
+===
+Gen: 779
+max fitness: 44.00000000000001
+average fitness: 40.399000000000015
+minimum fitness:  36.400000000000006
+xoooooooxcS
+cooooooxxo
+xcxoxocxxcS
+cxcocxcocoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 780
+max fitness: 44.00000000000001
+average fitness: 40.181
+minimum fitness:  33.20000000000001
+xoooooooxcS
+coooooooxx
+xcxoxocxxcS
+cxcocxcocoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 781
+max fitness: 44.7
+average fitness: 40.050999999999995
+minimum fitness:  33.10000000000001
+xoooooooxcS
+coooooooxx
+xcoxocxxcxS
+cxococoxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 782
+max fitness: 45.7
+average fitness: 40.36699999999998
+minimum fitness:  35.60000000000001
+xoooooooxcS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 783
+max fitness: 45.7
+average fitness: 40.43699999999999
+minimum fitness:  33.7
+xoooooooxcS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 784
+max fitness: 44.400000000000006
+average fitness: 40.23800000000001
+minimum fitness:  35.0
+xoooooooxcS
+cooooooxxo
+xcoxocxxcxS
+cxoxocoxcoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 785
+max fitness: 44.00000000000001
+average fitness: 39.956
+minimum fitness:  36.300000000000004
+xoooooooxcS
+coooooxxoo
+xcoxocxxcxS
+cxococxcocS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 786
+max fitness: 43.400000000000006
+average fitness: 40.042
+minimum fitness:  36.60000000000001
+xooooooxcxS
+cooooooxxo
+xcoxocxxcxS
+cxoxocoxcoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 787
+max fitness: 44.00000000000001
+average fitness: 39.899999999999984
+minimum fitness:  36.300000000000004
+xoooooxcooS
+cooooooxxo
+xcxocxxcxoS
+cxcococxcoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 788
+max fitness: 44.00000000000001
+average fitness: 40.43800000000002
+minimum fitness:  33.900000000000006
+xoooooxcooS
+cooooxxooo
+xcxocxxcxoS
+cxcococxcoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 789
+max fitness: 45.00000000000001
+average fitness: 40.72300000000003
+minimum fitness:  36.0
+xoooooooxcS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+oooooxxooo
+oooooxxooo
+===
+Gen: 790
+max fitness: 44.00000000000001
+average fitness: 41.069000000000024
+minimum fitness:  35.8
+xooooxcoooS
+coooooxxoo
+xcxocxxcxoS
+cxcocxcocoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 791
+max fitness: 45.00000000000001
+average fitness: 41.05300000000002
+minimum fitness:  37.8
+xooooxcoooS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+oooooxxooo
+===
+Gen: 792
+max fitness: 45.00000000000001
+average fitness: 41.233000000000004
+minimum fitness:  33.50000000000001
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+oooooooxxo
+ooooooooxx
+===
+Gen: 793
+max fitness: 45.00000000000001
+average fitness: 40.973
+minimum fitness:  37.0
+xooooooxcoS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+oooooooxxo
+===
+Gen: 794
+max fitness: 45.300000000000004
+average fitness: 41.476000000000006
+minimum fitness:  36.0
+xoooooxcooS
+cooooxxooo
+xcxocxocxo
+cxcococxcoS
+ooooooooxcS
+oooooooxxo
+===
+Gen: 795
+max fitness: 45.00000000000001
+average fitness: 41.816
+minimum fitness:  37.300000000000004
+xoooooxcooS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+ooooooooxx
+===
+Gen: 796
+max fitness: 45.00000000000001
+average fitness: 42.026
+minimum fitness:  37.300000000000004
+xooooooxcoS
+coooooxxoo
+xcoxocoxxcS
+cxocococxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 797
+max fitness: 45.00000000000001
+average fitness: 41.977
+minimum fitness:  33.2
+xoooooxcooS
+cooooxxooo
+xcoxocoxxcS
+cxocococxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 798
+max fitness: 45.00000000000001
+average fitness: 41.746
+minimum fitness:  35.2
+xoooooxcooS
+coooooooxx
+xcoxocoxxcS
+cxococxcocS
+oooooooxxo
+oooooooxxo
+===
+Gen: 799
+max fitness: 45.00000000000001
+average fitness: 41.978999999999985
+minimum fitness:  37.7
+xooooxcoooS
+cooooxxooo
+xcoxocoxxcS
+cxococxcocS
+oooooooxxo
+oooooxxooo
+===
+Gen: 800
+max fitness: 45.6
+average fitness: 41.884999999999984
+minimum fitness:  37.7
+xooooxcoooS
+coooooooxx
+xcxocxxcxoS
+cxcocxcocoS
+ooooooxcocS
+oooooooxxo
+===
+Gen: 801
+max fitness: 47.6
+average fitness: 41.58299999999998
+minimum fitness:  36.5
+xooooooxcoS
+cooooxxooo
+xcxocxxcxoS
+cxcocxcocoS
+ooooooxcoxS
+oooooooxcoS
+===
+Gen: 802
+max fitness: 47.6
+average fitness: 42.11899999999998
+minimum fitness:  38.30000000000001
+xoooooxcooS
+coooooooxx
+xcxocxxcxoS
+cxcocxcocoS
+oooooxcoxoS
+oooooooxcoS
+===
+Gen: 803
+max fitness: 45.00000000000001
+average fitness: 41.92499999999999
+minimum fitness:  31.50000000000001
+xooooxcoooS
+cooooooxxo
+xcoxocoxxcS
+cxocococxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 804
+max fitness: 45.00000000000001
+average fitness: 42.07499999999999
+minimum fitness:  38.5
+xoooooooxcS
+coooooooxx
+xcoxocoxxcS
+cxococxcocS
+oooooxxooo
+oooooxxooo
+===
+Gen: 805
+max fitness: 45.60000000000001
+average fitness: 42.392999999999994
+minimum fitness:  38.60000000000001
+xooooxcoooS
+cooooxxooo
+xcxocxxcxo
+cxcococxcoS
+oooooxcoxoS
+oooooooxcoS
+===
+Gen: 806
+max fitness: 45.400000000000006
+average fitness: 41.847
+minimum fitness:  31.6
+xoooooxcooS
+coooooxxoo
+xcocoxxcxoS
+cxoxocoxcoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 807
+max fitness: 45.00000000000001
+average fitness: 41.897000000000006
+minimum fitness:  35.599999999999994
+xoooooxcooS
+coooooxxoo
+xcoxocoxxcS
+cxocococxcS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 808
+max fitness: 45.00000000000001
+average fitness: 41.736999999999995
+minimum fitness:  34.2
+xooooxcoooS
+cooooxxooo
+xcoxocoxxcS
+cxocococxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 809
+max fitness: 45.00000000000001
+average fitness: 41.63799999999999
+minimum fitness:  38.30000000000001
+xooooxcoooS
+cooooooxxo
+xcoxocoxxcS
+cxocococxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 810
+max fitness: 45.00000000000001
+average fitness: 41.89699999999999
+minimum fitness:  38.2
+xooooooxcoS
+cooooxxooo
+xcoxocoxxcS
+cxocococxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 811
+max fitness: 45.400000000000006
+average fitness: 42.063999999999986
+minimum fitness:  37.2
+xooooxcoooS
+cooooxxooo
+xcocoxxcxoS
+cxoxocoxcoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 812
+max fitness: 45.400000000000006
+average fitness: 42.032
+minimum fitness:  38.10000000000001
+xooooxcoooS
+coooooxxoo
+xcocoxxcxoS
+cxoxocoxcoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 813
+max fitness: 45.00000000000001
+average fitness: 41.99299999999998
+minimum fitness:  38.400000000000006
+xoooooxcooS
+coooooooxx
+xcoxocoxxcS
+cxococxcocS
+oooooooxxo
+oooooxxooo
+===
+Gen: 814
+max fitness: 45.00000000000001
+average fitness: 42.228999999999985
+minimum fitness:  39.00000000000001
+xoooooxcooS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 815
+max fitness: 45.00000000000001
+average fitness: 42.14599999999999
+minimum fitness:  38.7
+xooooooxcoS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 816
+max fitness: 45.00000000000001
+average fitness: 42.29999999999999
+minimum fitness:  38.300000000000004
+xoooooooxcS
+coooooooxx
+xcoxocoxxcS
+cxocococxcS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 817
+max fitness: 45.00000000000001
+average fitness: 42.09199999999999
+minimum fitness:  33.50000000000001
+xooooxcoooS
+cooooooxxo
+xcoxocoxxcS
+cxocococxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 818
+max fitness: 45.00000000000001
+average fitness: 42.181000000000004
+minimum fitness:  38.00000000000001
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxocococxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 819
+max fitness: 45.00000000000001
+average fitness: 41.998000000000005
+minimum fitness:  38.7
+xoooooxcooS
+cooooxxooo
+xcoxocoxxcS
+cxococxcocS
+oooooooxxo
+ooooooooxx
+===
+Gen: 820
+max fitness: 45.00000000000001
+average fitness: 42.00199999999999
+minimum fitness:  38.7
+xoooooooxcS
+cooooooxxo
+xcoxocoxxcS
+cxocococxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 821
+max fitness: 45.00000000000001
+average fitness: 41.85599999999999
+minimum fitness:  38.00000000000001
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxocococxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 822
+max fitness: 45.400000000000006
+average fitness: 41.971000000000004
+minimum fitness:  38.00000000000001
+xooooooxcoS
+coooooxxoo
+xcocoxxcxoS
+cxoxocoxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 823
+max fitness: 45.00000000000001
+average fitness: 42.129
+minimum fitness:  39.00000000000001
+xooooxcoooS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+oooooxxooo
+===
+Gen: 824
+max fitness: 45.00000000000001
+average fitness: 42.038000000000004
+minimum fitness:  38.300000000000004
+xooooxcoooS
+cooooooxxo
+xcoxocoxxcS
+cxocococxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 825
+max fitness: 45.00000000000001
+average fitness: 41.961000000000006
+minimum fitness:  38.00000000000001
+xoooooxcooS
+cooooxxooo
+xcoxocoxxcS
+cxococxcocS
+oooooxxooo
+oooooooxxo
+===
+Gen: 826
+max fitness: 45.00000000000001
+average fitness: 41.833
+minimum fitness:  38.300000000000004
+xooooxcoooS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+oooooxxooo
+===
+Gen: 827
+max fitness: 45.00000000000001
+average fitness: 41.92400000000001
+minimum fitness:  38.0
+xooooooxcoS
+cooooxxooo
+xcoxocoxxcS
+cxococxcocS
+oooooxxooo
+ooooooooxx
+===
+Gen: 828
+max fitness: 45.00000000000001
+average fitness: 41.73699999999999
+minimum fitness:  36.800000000000004
+xooooooxcoS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+oooooxxooo
+oooooxxooo
+===
+Gen: 829
+max fitness: 45.00000000000001
+average fitness: 41.68199999999999
+minimum fitness:  33.50000000000001
+xooooooxcoS
+coooooxxoo
+xcoxocoxxcS
+cxocococxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 830
+max fitness: 45.00000000000001
+average fitness: 41.87699999999999
+minimum fitness:  35.900000000000006
+xooooooxcoS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 831
+max fitness: 45.00000000000001
+average fitness: 41.950999999999986
+minimum fitness:  34.2
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxocococxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 832
+max fitness: 45.400000000000006
+average fitness: 42.17999999999999
+minimum fitness:  33.2
+xooooxcoooS
+coooooooxx
+xcocoxxcxoS
+cxoxocoxcoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 833
+max fitness: 45.00000000000001
+average fitness: 41.958
+minimum fitness:  36.2
+xoooooooxcS
+coooooooxx
+xcoxocoxxcS
+cxocococxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 834
+max fitness: 45.00000000000001
+average fitness: 41.70399999999999
+minimum fitness:  37.10000000000001
+xooooxcoooS
+coooooxxoo
+xcoxocoxxcS
+cxocococxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 835
+max fitness: 45.00000000000001
+average fitness: 42.287000000000006
+minimum fitness:  36.7
+xoooooxcooS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+oooooooxxo
+ooooooooxx
+===
+Gen: 836
+max fitness: 45.00000000000001
+average fitness: 42.316
+minimum fitness:  39.400000000000006
+xooooxcoooS
+coooooooxx
+xcoxocoxxcS
+cxococxcocS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 837
+max fitness: 45.00000000000001
+average fitness: 41.848
+minimum fitness:  36.00000000000001
+xooooxcoooS
+coooooooxx
+xcoxocoxxcS
+cxocococxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 838
+max fitness: 45.00000000000001
+average fitness: 41.977999999999994
+minimum fitness:  37.7
+xooooooxcoS
+coooooxxoo
+xcoxocoxxcS
+cxocococxcS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 839
+max fitness: 45.00000000000001
+average fitness: 41.93900000000001
+minimum fitness:  37.900000000000006
+xoooooxcooS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 840
+max fitness: 45.00000000000001
+average fitness: 41.772000000000006
+minimum fitness:  34.5
+xooooxcoooS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 841
+max fitness: 45.00000000000001
+average fitness: 41.972999999999985
+minimum fitness:  34.7
+xooooxcoooS
+cooooxxooo
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+ooooooooxx
+===
+Gen: 842
+max fitness: 45.00000000000001
+average fitness: 41.64599999999999
+minimum fitness:  26.1
+xoooooxcooS
+cooooxxooo
+xcoxocoxxcS
+cxocococxcS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 843
+max fitness: 45.00000000000001
+average fitness: 41.677
+minimum fitness:  38.400000000000006
+xoooooxcooS
+cooooxxooo
+xcoxocoxxcS
+cxococxcocS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 844
+max fitness: 45.00000000000001
+average fitness: 41.736999999999995
+minimum fitness:  37.300000000000004
+xoooooxcooS
+coooooooxx
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+oooooooxxo
+===
+Gen: 845
+max fitness: 45.00000000000001
+average fitness: 41.708999999999996
+minimum fitness:  37.300000000000004
+xooooxcoooS
+cooooxxooo
+xcoxocoxxcS
+cxococxcocS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 846
+max fitness: 44.00000000000001
+average fitness: 41.81799999999999
+minimum fitness:  38.300000000000004
+xoooooooxcS
+cooooxxooo
+xcoxocxxcxS
+cxocococxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 847
+max fitness: 45.00000000000001
+average fitness: 41.821999999999996
+minimum fitness:  37.400000000000006
+xooooxcoooS
+cooooxxooo
+xcoxocoxxcS
+cxococxcocS
+oooooxxooo
+ooooooooxx
+===
+Gen: 848
+max fitness: 44.900000000000006
+average fitness: 42.023
+minimum fitness:  38.7
+xoooooxcooS
+cooooooxxo
+xcxocxxcxoS
+cxcococxco
+oooooxcocxS
+oooooooxcoS
+===
+Gen: 849
+max fitness: 45.00000000000001
+average fitness: 41.92400000000001
+minimum fitness:  38.7
+xooooxcoooS
+coooooooxx
+xcoxocoxxcS
+cxocococxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 850
+max fitness: 44.400000000000006
+average fitness: 41.40700000000001
+minimum fitness:  32.20000000000001
+xoooooooxcS
+cooooxxooo
+xcocoxocxo
+cxoxocoxcoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 851
+max fitness: 45.00000000000001
+average fitness: 41.974
+minimum fitness:  38.400000000000006
+xooooxcoooS
+coooooooxx
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 852
+max fitness: 45.00000000000001
+average fitness: 41.868999999999986
+minimum fitness:  38.7
+xooooooxcoS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 853
+max fitness: 45.00000000000001
+average fitness: 41.711000000000006
+minimum fitness:  36.400000000000006
+xooooooxcoS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+oooooooxxo
+ooooooooxx
+===
+Gen: 854
+max fitness: 45.00000000000001
+average fitness: 42.06700000000001
+minimum fitness:  37.7
+xooooooxcoS
+cooooxxooo
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+ooooooooxx
+===
+Gen: 855
+max fitness: 45.00000000000001
+average fitness: 42.023999999999994
+minimum fitness:  38.7
+xooooxcoooS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 856
+max fitness: 45.00000000000001
+average fitness: 41.87699999999999
+minimum fitness:  36.2
+xoooooooxcS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+oooooooxxo
+oooooxxooo
+===
+Gen: 857
+max fitness: 45.7
+average fitness: 41.97999999999999
+minimum fitness:  26.1
+xooooooxcoS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 858
+max fitness: 45.00000000000001
+average fitness: 42.23999999999999
+minimum fitness:  37.900000000000006
+xooooxcoooS
+cooooxxooo
+xcoxocoxxcS
+cxocococxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 859
+max fitness: 45.7
+average fitness: 42.376
+minimum fitness:  37.800000000000004
+xoooooooxcS
+cooooooxxo
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 860
+max fitness: 45.00000000000001
+average fitness: 42.03799999999999
+minimum fitness:  37.800000000000004
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 861
+max fitness: 45.7
+average fitness: 42.56799999999999
+minimum fitness:  38.7
+xooooooxcoS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 862
+max fitness: 45.00000000000001
+average fitness: 41.68699999999999
+minimum fitness:  36.7
+xoooooooxcS
+coooooooxx
+xcoxocoxxcS
+cxococxcocS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 863
+max fitness: 45.7
+average fitness: 42.59799999999999
+minimum fitness:  37.7
+xoooooxcooS
+cooooooxxo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 864
+max fitness: 45.00000000000001
+average fitness: 42.15
+minimum fitness:  34.10000000000001
+xoooooooxcS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+oooooxxooo
+===
+Gen: 865
+max fitness: 45.00000000000001
+average fitness: 42.632999999999996
+minimum fitness:  37.00000000000001
+xoooooooxcS
+cooooxxooo
+xcoxocoxxcS
+cxocococxcS
+oooooooxxo
+oooooxxooo
+===
+Gen: 866
+max fitness: 45.00000000000001
+average fitness: 42.365
+minimum fitness:  38.7
+xoooooooxcS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 867
+max fitness: 45.7
+average fitness: 42.228
+minimum fitness:  35.900000000000006
+xooooooxcoS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 868
+max fitness: 45.00000000000001
+average fitness: 41.714000000000006
+minimum fitness:  32.20000000000001
+xooooooxcoS
+cooooxxooo
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+ooooooooxx
+===
+Gen: 869
+max fitness: 45.400000000000006
+average fitness: 42.074
+minimum fitness:  36.400000000000006
+xooooxcoooS
+cooooooxxo
+xcocoxxcxoS
+cxoxocoxcoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 870
+max fitness: 45.00000000000001
+average fitness: 41.818000000000005
+minimum fitness:  35.800000000000004
+xoooooooxcS
+coooooooxx
+xcoxocoxxcS
+cxocococxcS
+oooooooxxo
+ooooooooxx
+===
+Gen: 871
+max fitness: 45.00000000000001
+average fitness: 42.153
+minimum fitness:  37.8
+xooooooxcoS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+oooooxxooo
+ooooooooxx
+===
+Gen: 872
+max fitness: 45.7
+average fitness: 42.095
+minimum fitness:  34.60000000000001
+xooooooxcoS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 873
+max fitness: 45.00000000000001
+average fitness: 42.32
+minimum fitness:  37.50000000000001
+xoooooxcooS
+coooooooxx
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+oooooxxooo
+===
+Gen: 874
+max fitness: 45.7
+average fitness: 42.333999999999996
+minimum fitness:  32.900000000000006
+xoooooooxcS
+cooooooxxo
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 875
+max fitness: 45.00000000000001
+average fitness: 42.044
+minimum fitness:  38.300000000000004
+xooooxcoooS
+coooooxxoo
+xcoxocoxxcS
+cxocococxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 876
+max fitness: 45.00000000000001
+average fitness: 42.034
+minimum fitness:  34.2
+xooooooxcoS
+cooooxxooo
+xcoxocoxxcS
+cxocococxcS
+oooooxxooo
+ooooooooxx
+===
+Gen: 877
+max fitness: 45.00000000000001
+average fitness: 41.99100000000001
+minimum fitness:  38.7
+xooooxcoooS
+coooooooxx
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+oooooxxooo
+===
+Gen: 878
+max fitness: 45.00000000000001
+average fitness: 42.212999999999994
+minimum fitness:  40.00000000000001
+xoooooooxcS
+cooooooxxo
+xcoxocoxxcS
+cxocococxcS
+ooooooooxx
+oooooooxxo
+===
+Gen: 879
+max fitness: 45.00000000000001
+average fitness: 42.13099999999999
+minimum fitness:  38.00000000000001
+xooooxcoooS
+coooooxxoo
+xcoxocoxxcS
+cxocococxcS
+oooooxxooo
+oooooxxooo
+===
+Gen: 880
+max fitness: 45.00000000000001
+average fitness: 42.323999999999984
+minimum fitness:  38.10000000000001
+xoooooooxcS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+oooooooxxo
+ooooooooxx
+===
+Gen: 881
+max fitness: 45.00000000000001
+average fitness: 42.14900000000001
+minimum fitness:  37.400000000000006
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxocococxcS
+oooooooxxo
+oooooooxxo
+===
+Gen: 882
+max fitness: 45.400000000000006
+average fitness: 42.165000000000006
+minimum fitness:  35.5
+xoooooxcooS
+cooooxxooo
+xcocoxxcxoS
+cxoxocoxcoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 883
+max fitness: 45.00000000000001
+average fitness: 42.062000000000005
+minimum fitness:  38.30000000000001
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxocococxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 884
+max fitness: 45.00000000000001
+average fitness: 41.68299999999999
+minimum fitness:  35.2
+xooooooxcoS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 885
+max fitness: 45.400000000000006
+average fitness: 42.324
+minimum fitness:  36.60000000000001
+xooooxcoooS
+cooooooxxo
+xcocoxxcxoS
+cxoxocoxcoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 886
+max fitness: 45.7
+average fitness: 41.863000000000014
+minimum fitness:  34.2
+xooooxcoooS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 887
+max fitness: 45.7
+average fitness: 41.821
+minimum fitness:  36.60000000000001
+xoooooxcooS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 888
+max fitness: 45.7
+average fitness: 41.963
+minimum fitness:  36.2
+xoooooooxcS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 889
+max fitness: 45.7
+average fitness: 42.13099999999999
+minimum fitness:  37.60000000000001
+xoooooooxcS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 890
+max fitness: 45.00000000000001
+average fitness: 42.178000000000004
+minimum fitness:  36.400000000000006
+xooooooxcoS
+cooooooxxo
+xcoxocoxxcS
+cxocococxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 891
+max fitness: 45.7
+average fitness: 42.13199999999999
+minimum fitness:  29.800000000000004
+xooooooxcoS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 892
+max fitness: 45.00000000000001
+average fitness: 41.67400000000001
+minimum fitness:  33.2
+xoooooxcooS
+coooooxxoo
+xcoxocoxxcS
+cxocococxcS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 893
+max fitness: 45.00000000000001
+average fitness: 42.242
+minimum fitness:  37.2
+xooooooxcoS
+cooooxxooo
+xcoxocoxxcS
+cxococxcocS
+oooooxxooo
+oooooxxooo
+===
+Gen: 894
+max fitness: 45.00000000000001
+average fitness: 42.309000000000005
+minimum fitness:  37.900000000000006
+xooooooxcoS
+cooooxxooo
+xcoxocoxxcS
+cxocococxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 895
+max fitness: 45.7
+average fitness: 42.06399999999998
+minimum fitness:  37.5
+xoooooxcooS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 896
+max fitness: 45.7
+average fitness: 42.387
+minimum fitness:  38.300000000000004
+xoooooxcooS
+cooooooxxo
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 897
+max fitness: 45.00000000000001
+average fitness: 42.415
+minimum fitness:  40.0
+xooooxcoooS
+cooooxxooo
+xcoxocoxxcS
+cxococxcocS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 898
+max fitness: 45.00000000000001
+average fitness: 42.196000000000005
+minimum fitness:  37.300000000000004
+xooooooxcoS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 899
+max fitness: 45.7
+average fitness: 42.167
+minimum fitness:  38.00000000000001
+xoooooxcooS
+cooooooxxo
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 900
+max fitness: 45.00000000000001
+average fitness: 42.14499999999999
+minimum fitness:  33.900000000000006
+xooooooxcoS
+cooooxxooo
+xcoxocoxxcS
+cxococxcocS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 901
+max fitness: 45.7
+average fitness: 42.53
+minimum fitness:  39.7
+xooooooxcoS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 902
+max fitness: 45.7
+average fitness: 42.347
+minimum fitness:  38.400000000000006
+xoooooooxcS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 903
+max fitness: 45.7
+average fitness: 42.345
+minimum fitness:  33.300000000000004
+xooooooxcoS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 904
+max fitness: 45.7
+average fitness: 42.30599999999998
+minimum fitness:  38.7
+xooooooxcoS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 905
+max fitness: 45.7
+average fitness: 42.632999999999996
+minimum fitness:  27.800000000000004
+xooooxcoooS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 906
+max fitness: 45.7
+average fitness: 42.46899999999999
+minimum fitness:  38.7
+xooooxcoooS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 907
+max fitness: 45.7
+average fitness: 42.47299999999999
+minimum fitness:  38.30000000000001
+xooooooxcoS
+cooooooxxo
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 908
+max fitness: 45.7
+average fitness: 42.377999999999986
+minimum fitness:  38.00000000000001
+xooooooxcoS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 909
+max fitness: 45.7
+average fitness: 42.42499999999999
+minimum fitness:  40.7
+xoooooxcooS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 910
+max fitness: 45.7
+average fitness: 42.484999999999985
+minimum fitness:  37.900000000000006
+xooooxcoooS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 911
+max fitness: 45.7
+average fitness: 42.277999999999984
+minimum fitness:  36.7
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 912
+max fitness: 45.00000000000001
+average fitness: 42.51699999999999
+minimum fitness:  38.400000000000006
+xoooooxcooS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+oooooooxxo
+oooooooxxo
+===
+Gen: 913
+max fitness: 45.7
+average fitness: 42.50399999999997
+minimum fitness:  38.7
+xooooxcoooS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 914
+max fitness: 45.7
+average fitness: 42.417
+minimum fitness:  40.400000000000006
+xooooxcoooS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 915
+max fitness: 45.7
+average fitness: 42.012999999999984
+minimum fitness:  31.90000000000001
+xooooooxcoS
+cooooooxxo
+xcoxocoxxcS
+cxococoxcoS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 916
+max fitness: 45.7
+average fitness: 42.293999999999976
+minimum fitness:  38.400000000000006
+xooooooxcoS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 917
+max fitness: 45.7
+average fitness: 42.03099999999999
+minimum fitness:  31.90000000000001
+xooooxcoooS
+cooooooxxo
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 918
+max fitness: 45.7
+average fitness: 42.42799999999999
+minimum fitness:  40.400000000000006
+xoooooxcooS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 919
+max fitness: 45.7
+average fitness: 42.22499999999997
+minimum fitness:  31.20000000000001
+xoooooxcooS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 920
+max fitness: 45.7
+average fitness: 42.24899999999999
+minimum fitness:  37.6
+xooooxcoooS
+cooooooxxo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 921
+max fitness: 45.9
+average fitness: 42.52699999999996
+minimum fitness:  38.7
+xoooooooxcS
+coooooxxoo
+xcoxocxxcx
+cxococxcocS
+ooooooxcocS
+ooooooooxcS
+===
+Gen: 922
+max fitness: 47.6
+average fitness: 42.47399999999999
+minimum fitness:  39.400000000000006
+xooooooxcoS
+coooooooxx
+xcoxocxocx
+cxocococxcS
+oooooooxcoS
+ooooooooxcS
+===
+Gen: 923
+max fitness: 46.6
+average fitness: 42.185999999999964
+minimum fitness:  39.400000000000006
+xoooooxcooS
+cooooooxxo
+xcoxocxxcxS
+cxococxcocS
+oooooooocx
+ooooooooxcS
+===
+Gen: 924
+max fitness: 46.9
+average fitness: 42.53499999999998
+minimum fitness:  38.0
+xooooxcoooS
+coooooooxx
+xcoxocxxcxS
+cxocococxcS
+oooooxcocxS
+ooooooooxcS
+===
+Gen: 925
+max fitness: 45.7
+average fitness: 42.688999999999986
+minimum fitness:  38.300000000000004
+xooooxcoooS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 926
+max fitness: 45.7
+average fitness: 42.00599999999998
+minimum fitness:  37.7
+xooooooxcoS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 927
+max fitness: 45.6
+average fitness: 42.27199999999997
+minimum fitness:  38.10000000000001
+xoooooooxcS
+cooooxxooo
+xcoxocxocx
+cxococxcoc
+oooooooxcoS
+ooooooooxcS
+===
+Gen: 928
+max fitness: 45.7
+average fitness: 42.414999999999964
+minimum fitness:  36.7
+xooooooxcoS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 929
+max fitness: 45.7
+average fitness: 41.99399999999997
+minimum fitness:  38.0
+xooooooxcoS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 930
+max fitness: 45.7
+average fitness: 42.254
+minimum fitness:  38.10000000000001
+xooooooxcoS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 931
+max fitness: 45.7
+average fitness: 42.26099999999999
+minimum fitness:  38.7
+xoooooxcooS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 932
+max fitness: 45.7
+average fitness: 42.494
+minimum fitness:  35.300000000000004
+xoooooooxcS
+cooooooxxo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 933
+max fitness: 45.7
+average fitness: 42.775999999999996
+minimum fitness:  38.400000000000006
+xooooxcoooS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 934
+max fitness: 45.7
+average fitness: 42.371999999999964
+minimum fitness:  39.400000000000006
+xooooxcoooS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 935
+max fitness: 45.7
+average fitness: 42.51599999999998
+minimum fitness:  39.10000000000001
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 936
+max fitness: 45.7
+average fitness: 42.409999999999975
+minimum fitness:  40.00000000000001
+xooooxcoooS
+cooooooxxo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 937
+max fitness: 45.7
+average fitness: 42.245999999999995
+minimum fitness:  32.2
+xoooooxcooS
+cooooooxxo
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 938
+max fitness: 45.7
+average fitness: 42.49499999999999
+minimum fitness:  32.2
+xoooooooxcS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+ooooooooxx
+===
+Gen: 939
+max fitness: 45.00000000000001
+average fitness: 42.09599999999998
+minimum fitness:  37.2
+xooooxcoooS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 940
+max fitness: 45.7
+average fitness: 42.12999999999999
+minimum fitness:  36.900000000000006
+xoooooxcooS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 941
+max fitness: 45.7
+average fitness: 42.23099999999999
+minimum fitness:  37.7
+xooooxcoooS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 942
+max fitness: 45.7
+average fitness: 41.98499999999999
+minimum fitness:  32.50000000000001
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+oooooxxooo
+===
+Gen: 943
+max fitness: 45.00000000000001
+average fitness: 41.928000000000004
+minimum fitness:  35.800000000000004
+xooooooxcoS
+coooooooxx
+xcoxocoxxcS
+cxocococxcS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 944
+max fitness: 45.7
+average fitness: 42.002999999999986
+minimum fitness:  35.60000000000001
+xooooooxcoS
+cooooooxxo
+xcoxocoxxcS
+cxococoxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 945
+max fitness: 45.00000000000001
+average fitness: 42.113999999999976
+minimum fitness:  38.0
+xooooxcoooS
+cooooooxxo
+xcoxocoxxcS
+cxocococxcS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 946
+max fitness: 45.00000000000001
+average fitness: 42.17199999999999
+minimum fitness:  39.7
+xoooooxcooS
+coooooooxx
+xcoxocoxxcS
+cxocococxcS
+oooooxxooo
+oooooooxxo
+===
+Gen: 947
+max fitness: 45.7
+average fitness: 42.27399999999998
+minimum fitness:  38.7
+xooooxcoooS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 948
+max fitness: 45.7
+average fitness: 42.37899999999999
+minimum fitness:  38.7
+xooooxcoooS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 949
+max fitness: 45.7
+average fitness: 42.24799999999999
+minimum fitness:  37.00000000000001
+xooooxcoooS
+cooooooxxo
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 950
+max fitness: 45.7
+average fitness: 42.255
+minimum fitness:  39.199999999999996
+xoooooooxcS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 951
+max fitness: 45.7
+average fitness: 42.00899999999998
+minimum fitness:  38.300000000000004
+xoooooxcooS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 952
+max fitness: 45.00000000000001
+average fitness: 41.90699999999999
+minimum fitness:  32.800000000000004
+xoooooxcooS
+cooooxxooo
+xcoxocoxxcS
+cxocococxcS
+ooooooooxx
+ooooooooxx
+===
+Gen: 953
+max fitness: 45.7
+average fitness: 42.11299999999999
+minimum fitness:  38.7
+xoooooxcooS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 954
+max fitness: 45.7
+average fitness: 41.997
+minimum fitness:  35.20000000000001
+xooooooxcoS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 955
+max fitness: 45.00000000000001
+average fitness: 42.341
+minimum fitness:  38.30000000000001
+xoooooxcooS
+cooooxxooo
+xcoxocoxxcS
+cxocococxcS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 956
+max fitness: 45.7
+average fitness: 42.117999999999995
+minimum fitness:  37.60000000000001
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 957
+max fitness: 45.00000000000001
+average fitness: 42.154999999999994
+minimum fitness:  37.7
+xoooooxcooS
+coooooooxx
+xcoxocoxxcS
+cxocococxcS
+ooooooooxx
+oooooxxooo
+===
+Gen: 958
+max fitness: 45.7
+average fitness: 42.34699999999999
+minimum fitness:  40.00000000000001
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 959
+max fitness: 45.7
+average fitness: 42.50399999999998
+minimum fitness:  38.60000000000001
+xooooooxcoS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 960
+max fitness: 45.7
+average fitness: 42.507999999999974
+minimum fitness:  38.7
+xooooxcoooS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+ooooooooxx
+===
+Gen: 961
+max fitness: 45.7
+average fitness: 41.861
+minimum fitness:  26.4
+xoooooxcooS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 962
+max fitness: 45.7
+average fitness: 42.488999999999976
+minimum fitness:  36.7
+xooooooxcoS
+cooooooxxo
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 963
+max fitness: 45.7
+average fitness: 42.188
+minimum fitness:  35.900000000000006
+xoooooxcooS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 964
+max fitness: 45.7
+average fitness: 42.361
+minimum fitness:  29.8
+xooooooxcoS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 965
+max fitness: 45.00000000000001
+average fitness: 42.342000000000006
+minimum fitness:  36.5
+xooooxcoooS
+coooooooxx
+xcoxocoxxcS
+cxococxcocS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 966
+max fitness: 45.7
+average fitness: 42.412
+minimum fitness:  38.7
+xoooooooxcS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 967
+max fitness: 45.7
+average fitness: 42.251
+minimum fitness:  37.2
+xooooxcoooS
+cooooooxxo
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+ooooooxxoo
+===
+Gen: 968
+max fitness: 45.00000000000001
+average fitness: 42.19699999999999
+minimum fitness:  37.6
+xoooooxcooS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 969
+max fitness: 45.7
+average fitness: 42.32699999999999
+minimum fitness:  38.7
+xooooxcoooS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+ooooooxxoo
+===
+Gen: 970
+max fitness: 45.00000000000001
+average fitness: 41.948999999999984
+minimum fitness:  38.400000000000006
+xoooooooxcS
+coooooooxx
+xcoxocoxxcS
+cxococxcocS
+ooooooxxoo
+oooooxxooo
+===
+Gen: 971
+max fitness: 45.00000000000001
+average fitness: 42.355999999999995
+minimum fitness:  36.7
+xoooooxcooS
+cooooxxooo
+xcoxocoxxcS
+cxococxcocS
+ooooooxxoo
+ooooooxxoo
+===
+Gen: 972
+max fitness: 45.00000000000001
+average fitness: 42.13799999999999
+minimum fitness:  38.7
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+oooooxxooo
+===
+Gen: 973
+max fitness: 45.7
+average fitness: 42.052999999999976
+minimum fitness:  39.7
+xooooooxcoS
+cooooooxxo
+xcoxocoxxcS
+cxococoxcoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 974
+max fitness: 45.7
+average fitness: 42.64999999999999
+minimum fitness:  38.2
+xoooooxcooS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 975
+max fitness: 45.00000000000001
+average fitness: 42.13199999999999
+minimum fitness:  38.2
+xooooxcoooS
+coooooooxx
+xcoxocoxxcS
+cxococxcocS
+oooooooxxo
+oooooxxooo
+===
+Gen: 976
+max fitness: 45.7
+average fitness: 42.18399999999999
+minimum fitness:  32.20000000000001
+xoooooooxcS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 977
+max fitness: 45.00000000000001
+average fitness: 42.08599999999999
+minimum fitness:  39.400000000000006
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+oooooxxooo
+===
+Gen: 978
+max fitness: 45.7
+average fitness: 42.51699999999998
+minimum fitness:  37.300000000000004
+xoooooooxcS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 979
+max fitness: 45.7
+average fitness: 42.30199999999999
+minimum fitness:  39.00000000000001
+xooooxcoooS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+oooooxxooo
+===
+Gen: 980
+max fitness: 45.7
+average fitness: 42.28399999999997
+minimum fitness:  38.400000000000006
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 981
+max fitness: 45.7
+average fitness: 42.187999999999974
+minimum fitness:  38.7
+xoooooooxcS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+oooooooxxo
+===
+Gen: 982
+max fitness: 45.400000000000006
+average fitness: 42.29599999999999
+minimum fitness:  36.900000000000006
+xoooooooxcS
+coooooooxx
+xcocoxxcxoS
+cxoxocoxcoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 983
+max fitness: 45.00000000000001
+average fitness: 42.515
+minimum fitness:  40.00000000000001
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+oooooxxooo
+===
+Gen: 984
+max fitness: 45.7
+average fitness: 42.294
+minimum fitness:  34.2
+xoooooooxcS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooxxooo
+===
+Gen: 985
+max fitness: 45.7
+average fitness: 42.209999999999994
+minimum fitness:  38.7
+xooooxcoooS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+ooooooxxoo
+ooooooooxx
+===
+Gen: 986
+max fitness: 45.7
+average fitness: 41.80299999999998
+minimum fitness:  37.60000000000001
+xoooooooxcS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+ooooooxxoo
+===
+Gen: 987
+max fitness: 45.7
+average fitness: 42.445
+minimum fitness:  40.400000000000006
+xooooooxcoS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+oooooxxooo
+oooooooxxo
+===
+Gen: 988
+max fitness: 45.7
+average fitness: 42.14899999999998
+minimum fitness:  31.5
+xoooooooxcS
+coooooxxoo
+xcoxocoxxcS
+cxococoxcoS
+oooooooxxo
+ooooooooxx
+===
+Gen: 989
+max fitness: 45.7
+average fitness: 42.463
+minimum fitness:  38.00000000000001
+xooooxcoooS
+cooooxxooo
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 990
+max fitness: 46.9
+average fitness: 42.380999999999986
+minimum fitness:  38.6
+xoooooooxcS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+oooooxcocxS
+oooooooxxcS
+===
+Gen: 991
+max fitness: 45.9
+average fitness: 42.27499999999999
+minimum fitness:  39.400000000000006
+xooooxcoooS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+ooooooxcocS
+oooooooxxc
+===
+Gen: 992
+max fitness: 45.00000000000001
+average fitness: 42.04200000000001
+minimum fitness:  38.0
+xoooooxcooS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+oooooooxxo
+===
+Gen: 993
+max fitness: 45.6
+average fitness: 42.17100000000001
+minimum fitness:  36.00000000000001
+xooooxcoooS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+ooooooxcocS
+ooooooxxox
+===
+Gen: 994
+max fitness: 45.00000000000001
+average fitness: 42.06000000000001
+minimum fitness:  37.5
+xoooooxcooS
+cooooooxxo
+xcoxocoxxcS
+cxococxcocS
+ooooooooxx
+oooooxxooo
+===
+Gen: 995
+max fitness: 45.7
+average fitness: 41.957999999999984
+minimum fitness:  36.400000000000006
+xoooooxcooS
+coooooooxx
+xcoxocoxxcS
+cxococoxcoS
+ooooooooxx
+oooooooxxo
+===
+Gen: 996
+max fitness: 45.00000000000001
+average fitness: 42.16299999999999
+minimum fitness:  29.5
+xooooxcoooS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 997
+max fitness: 45.00000000000001
+average fitness: 42.19399999999997
+minimum fitness:  34.500000000000014
+xoooooxcooS
+cooooxxooo
+xcoxocoxxcS
+cxococxcocS
+ooooooxxoo
+oooooooxxo
+===
+Gen: 998
+max fitness: 45.00000000000001
+average fitness: 42.326
+minimum fitness:  40.00000000000001
+xoooooxcooS
+coooooxxoo
+xcoxocoxxcS
+cxococxcocS
+oooooooxxo
+ooooooooxx
+===
+Gen: 999
+max fitness: 45.00000000000001
+average fitness: 42.43999999999999
+minimum fitness:  38.400000000000006
+xoooooooxcS
+cooooxxooo
+xcoxocoxxcS
+cxocococxcS
+oooooooxxo
+ooooooxxoo
