@@ -30,7 +30,6 @@ class Task_without_accident:
             reward_vec = [0.3, 0.0, 1.0]
         elif(self.rule == Rule.VI):
             reward_vec = [0.0, 0.3, 1.0]
-
         if(is_accident):
             reward_vec = [0.0 if i == 1.0 else i for i in reward_vec]
 
@@ -38,7 +37,7 @@ class Task_without_accident:
 
         return reward_vec[ action ]
 
-    def execute_task(self, agent) -> int:
+    def execute_task(self, agent) -> float:
         total_reward = 0
         agent.history = ''
 
@@ -52,23 +51,21 @@ class Task_without_accident:
             reward = self.rewards[ output_vec.index(max(output_vec)) ]
             total_reward += reward
 
-            if(reward == 0.0):
-                agent.histories[No] += 'x'
+            if(reward == 1.0):
+                agent.history += 'o'
                 feedback = [1,0,0]
             elif(reward == 0.3):
-                agent.histories[No] += 'c'
+                agent.history += 'x'
                 feedback = [0,1,0]
-            elif(reward == 1.0):
+            elif(reward == 0.0):
                 feedback = [0,0,1]
-                agent.histories[No] += 'o'
+                agent.history += 'c'
 
             #feedback phase
             feedback_vector=[0,1]
             feedback_vector += previous_output
             feedback_vector += feedback
             tmp_output = agent.get_output_with_update(feedback_vector)
-
-
         return total_reward
 
 if __name__=='__main__':
