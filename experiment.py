@@ -28,7 +28,7 @@ for gen in range(GENERATION_NUM):
     print('average fitness:', agents.average_fitness)
     print('minimum fitness: ', agents.min_fitness)
 
-    if(agents.average_fitness >= 8.1):
+    if(agents.max_fitness >= 8.1):
         print('Successfully evolved')
         agents.sort(key=attrgetter('fitness'), reverse =True)
         task.test_agent(agents[0],True)
@@ -36,6 +36,7 @@ for gen in range(GENERATION_NUM):
         sys.exit()
 
     agents.sort(key=attrgetter('fitness'), reverse =True)
+    task.test_agent(agents[0], True)
     agents = agents.evolution_mgg(task=task.test_agent,elite_num=2, mutate_prob=0.05, sigma=0.1)
 
 name = sys.argv[1] + '.pickle'
