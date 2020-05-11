@@ -11,11 +11,11 @@ from accident_task import Task_without_accident
 agents = agents.Agents('ExHebbianNetwork',
                         POPULATION_SIZE,
                         is_automatic_change = False,
-                        input_num=3,
+                        input_num=5,
                         output_num=3,
-                        normal_num_upper_limit = 20
-                        modulation_num_upper_limit = 10
-                        neuron_num_upper_limit = 20
+                        normal_num_upper_limit = 20,
+                        modulation_num_upper_limit = 10,
+                        neuron_num_upper_limit = 20,
                         connection_num_lower_limit=10,
                         connection_num_upper_limit=100
                     )
