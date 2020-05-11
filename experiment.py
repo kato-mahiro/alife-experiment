@@ -19,8 +19,9 @@ for gen in range(GENERATION_NUM):
         task = Task_without_accident()
     else:
         task = Task_with_accident()
-
+    
     for pop in range(POPULATION_SIZE):
+        task.change_rule()
         agents[pop].fitness = task.execute_task(agents[pop])
 
     print('max fitness:', agents.max_fitness)
@@ -30,6 +31,7 @@ for gen in range(GENERATION_NUM):
     if(agents.average_fitness >= 9.1):
         print('Successfully evolved')
         agents.sort(key=attrgetter('fitness'), reverse =True)
+        task.test_agent(agents[0])
         agents[0].show_network()
         sys.exit()
 
