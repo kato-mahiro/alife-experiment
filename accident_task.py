@@ -11,11 +11,12 @@ class Rule(IntEnum):
     V   = 5
     VI  = 6
 
-
 class Task_without_accident:
-    def __init__(self):
-        self.rule = Rule(random.randint(1,6))
-        print(self.rule)
+    def __init__(self, rule=None):
+        if(rule == None):
+            self.rule = Rule(random.randint(1,6))
+        else:
+            self.rule = rule
 
     def get_reward(self, action: int, is_accident:bool = False) -> float:
         if(self.rule == Rule.I):
@@ -33,8 +34,6 @@ class Task_without_accident:
         if(is_accident):
             reward_vec = [0.0 if i == 1.0 else i for i in reward_vec]
 
-        print(reward_vec)
-
         return reward_vec[ action ]
 
     def execute_task(self, agent) -> float:
@@ -43,29 +42,29 @@ class Task_without_accident:
 
         for i in range(STEP_NUM):
             #question phase
-            input_vector = [1,0,0,0,0,0,0,0]
+            input_vector = [1,0,0]
             tmp_output = agent.get_output_with_update(input_vector)
             output_vec = [0,0,0]
-            output_vec[tmp_output.index(max(tmp_output))] = 1
+            action_id = tmp_output.index(max(tmp_output))
+            output_vec[action_id] = 1
             previous_output = output_vec
-            reward = self.rewards[ output_vec.index(max(output_vec)) ]
+            reward = self.get_reward(action = action_id, is_accident = False) 
             total_reward += reward
 
             if(reward == 1.0):
                 agent.history += 'o'
-                feedback = [1,0,0]
+                feedback_input = 1.0
             elif(reward == 0.3):
-                agent.history += 'x'
-                feedback = [0,1,0]
-            elif(reward == 0.0):
-                feedback = [0,0,1]
                 agent.history += 'c'
+                feedback_input = 0.0
+            elif(reward == 0.0):
+                agent.history += 'x'
+                feedback_input = 0.0
 
             #feedback phase
-            feedback_vector=[0,1]
-            feedback_vector += previous_output
-            feedback_vector += feedback
+            feedback_vector=[0,1,feedback_input]
             tmp_output = agent.get_output_with_update(feedback_vector)
+
         return total_reward
 
 if __name__=='__main__':
