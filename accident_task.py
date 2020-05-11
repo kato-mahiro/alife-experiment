@@ -18,6 +18,12 @@ class Task_without_accident:
         else:
             self.rule = rule
 
+    def change_rule(self, rule=None):
+        if(rule == None):
+            self.rule = Rule(random.randint(1,6))
+        else:
+            self.rule = rule
+
     def get_reward(self, action: int, is_accident:bool = False) -> float:
         if(self.rule == Rule.I):
             reward_vec = [1.0, 0.3, 0.0]
