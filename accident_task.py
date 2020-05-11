@@ -67,6 +67,38 @@ class Task_without_accident:
 
         return total_reward
 
+    def test_agent(self, agent):
+
+        self.rule = Rule.I
+        agent.reset()
+        self.execute_task(agent)
+        print('I: ',agent.history)
+
+        self.rule = Rule.II
+        agent.reset()
+        self.execute_task(agent)
+        print('II: ',agent.history)
+
+        self.rule = Rule.III
+        agent.reset()
+        self.execute_task(agent)
+        print('III: ',agent.history)
+
+        self.rule = Rule.IV
+        agent.reset()
+        self.execute_task(agent)
+        print('IV: ',agent.history)
+
+        self.rule = Rule.V
+        agent.reset()
+        self.execute_task(agent)
+        print('V: ',agent.history)
+
+        self.rule = Rule.VI
+        agent.reset()
+        self.execute_task(agent)
+        print('VI: ',agent.history)
+
 if __name__=='__main__':
     t = Task_without_accident()
     print(t.rule)
