@@ -48,7 +48,7 @@ class Task_without_accident:
 
         for i in range(STEP_NUM):
             #question phase
-            input_vector = [1,0,0,0,0]
+            input_vector = [1,0,0,0,0,0,0,0]
             tmp_output = agent.get_output_with_update(input_vector)
             output_vec = [0,0,0]
             action_id = tmp_output.index(max(tmp_output))
@@ -68,7 +68,7 @@ class Task_without_accident:
                 feedback = [0, 0, 1]
 
             #feedback phase
-            feedback_vector=[0,1] + feedback
+            feedback_vector=[0,1] + previous_output +  feedback
             tmp_output = agent.get_output_with_update(feedback_vector)
 
         return total_reward

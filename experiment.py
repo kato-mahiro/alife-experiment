@@ -11,7 +11,7 @@ from accident_task import Task_without_accident
 agents = agents.Agents('ExHebbianNetwork',
                         POPULATION_SIZE,
                         is_automatic_change = False,
-                        input_num=5,
+                        input_num=8,
                         output_num=3,
                         normal_num_upper_limit = 20,
                         modulation_num_upper_limit = 10,
