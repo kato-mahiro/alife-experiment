@@ -8,7 +8,17 @@ from modneat.modneat import agents
 from accident_task import Task_without_accident
 #from accident_task import Task_with_accident
 
-agents = agents.Agents('ExHebbianNetwork',POPULATION_SIZE,is_automatic_change = False,input_num=3,output_num=3, connection_num_lower_limit=10,connection_num_upper_limit=100)
+agents = agents.Agents('ExHebbianNetwork',
+                        POPULATION_SIZE,
+                        is_automatic_change = False,
+                        input_num=3,
+                        output_num=3,
+                        normal_num_upper_limit = 20
+                        modulation_num_upper_limit = 10
+                        neuron_num_upper_limit = 20
+                        connection_num_lower_limit=10,
+                        connection_num_upper_limit=100
+                    )
 is_accident = False
 
 for gen in range(GENERATION_NUM):
