@@ -73,37 +73,47 @@ class Task_without_accident:
 
         return total_reward
 
-    def test_agent(self, agent):
+    def test_agent(self, agent, show_log = False):
+        mean_reward = 0.0
 
         self.rule = Rule.I
         agent.reset()
-        self.execute_task(agent)
-        print('I: ',agent.history)
+        mean_reward += self.execute_task(agent)
+        if(show_log):
+            print('I: ',agent.history)
 
         self.rule = Rule.II
         agent.reset()
-        self.execute_task(agent)
-        print('II: ',agent.history)
+        mean_reward += self.execute_task(agent)
+        if(show_log):
+            print('II: ',agent.history)
 
         self.rule = Rule.III
         agent.reset()
-        self.execute_task(agent)
-        print('III: ',agent.history)
+        mean_reward += self.execute_task(agent)
+        if(show_log):
+            print('III: ',agent.history)
 
         self.rule = Rule.IV
         agent.reset()
-        self.execute_task(agent)
-        print('IV: ',agent.history)
+        mean_reward += self.execute_task(agent)
+        if(show_log):
+            print('IV: ',agent.history)
 
         self.rule = Rule.V
         agent.reset()
-        self.execute_task(agent)
-        print('V: ',agent.history)
+        mean_reward += self.execute_task(agent)
+        if(show_log):
+            print('V: ',agent.history)
 
         self.rule = Rule.VI
         agent.reset()
-        self.execute_task(agent)
-        print('VI: ',agent.history)
+        mean_reward += self.execute_task(agent)
+        if(show_log):
+            print('VI: ',agent.history)
+        
+        if(mean_reward != 0.0): mean_reward /= 6.0
+        return mean_reward
 
 if __name__=='__main__':
     t = Task_without_accident()
